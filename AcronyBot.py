@@ -15,10 +15,12 @@ auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
 auth.set_access_token(ACCESS_TOKEN, ACCESS_SECRET)
 api = tweepy.API(auth)
 
+hashtag1 = " #ETYUAAAPD"
+hashtag2 = " #acronyms"
 
 with open('acronyms.txt','r') as f:
 	tweettext = f.readline()
-	#api.update_status(tweettext)
+	api.update_status(tweettext+hashtag1+hashtag2)
 	if tweettext == "":
 		sys.exit()
 
