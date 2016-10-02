@@ -20,7 +20,7 @@ hashtag2 = " #acronyms"
 
 with open('acronyms.txt','r') as f:
 	tweettext = f.readline()
-	api.update_status(tweettext+hashtag1+hashtag2)
+	api.update_status(tweettext.split(":")[1]+hashtag1+hashtag2)
 	if tweettext == "":
 		sys.exit()
 
