@@ -1,234 +1,2439 @@
-AAAAA - American Association Against Acronym Abuse
-AAF - As A Friend or Always And Forever
-AAK - Asleep At Keyboard
-AAMOF - As A Matter Of Fact
-AAMOI - As A Matter Of Interest
-AAR - At Any Rate
-AAS - Alive And Smiling
-AATK - Always At The Keyboard
-AAYF - As Always, Your Friend
-AB Ass Backwards or Ah Bless
-ABC Always Be Creating or Collaborating or Communicating
-ABITHIWTITB - A Bird In The Hand Is Worth Two In The Bush
-ABK - Always Be Knolling
-ABT2 - About To
-ACD - Alt Control Delete
-ACE - Access Control Entry
-ACK - Acknowledgement
-ACORN - A Completely Obsessive Really Nutty person
-ADAD - Another Day Another Dollar
-ADBB - All Done Bye Bye
-ADIDAS - All Day I Dream About Sex
-ADIH - Another Day In Hell
-ADIP - Another Day In Paradise
-ADM - Aye Dios Mio
-ADN - Advanced Digital Network or Any Day Now
-ADVD - Advised
-AEAP - As Early As Possible
-AFAGAY - A Friend As Good As You
-AFAHMASP - A Fool And His Money Are Soon Parted
-AFAIC - As Far As I'm Concerned
-AFAICS - As Far As I Can See
-AFAICT - As Far As I Can Tell
-AFAIK - As Far As I Know
-AFAIR - As Far As I Remember
-AFAIU - As Far As I Understand
-AFAIUI - As Far As I Understand It
-AFAP - As Far As Possible
-AFAYC - As Far As You're Concerned
-AFCA - way From Computer
-AFDN - Any F***ing Day Now
-AFGO - Another F***ing Growth Opportunity
-AFIAA - As Far As I Am Aware
-AFINIAFI - A Friend In Need Is A Friend Indeed
-AFJ - April Fools Joke
-AFK - Away From Keyboard or A Free Kill
-AFPOE - A Fresh Pair Of Eyes
-AFT - About F***ing Time
-AFU - All F***ed Up
-AFW - Away From Window
-AFZ - Acronym Free Zone
-AGB - Almost Good Bridge
-AGKWE - And God Knows What Else
-AI - Artificial Intelligence or As If
-AIAMU - And I'm A Monkey's Uncle
-AIH - As It Happens
-AIMB - As I Mentioned Before
-AIMP - Always In My Prayers
-AISB - As I Said Before
-AISE - As I Said Earlier
-AISI - As I See It
-AITR - Adult In The Room
-AKA or a.k.a. - Also Known As
-ALAP - As Late As Possible
-alcon - All Concerned
-ALOL - Actually Laughing Out Loud
-ALOTBSOL - Always Look On The Bright Side Of Life
-ALTGA - ct Locally, Think Globally
-ALW - Ain't Life Wonderful
-AMA - Ask Me Anything
-AMAP - As Many As Possible or As Much As Possible
-AMBW - All My Best Wishes
-AMF - Adios Mother F***er
-AML - All My Love
-AMRMTYFTS - All My Roommates Thank You For The Show
-ANFAWFOS - And Now For A Word From Our Sponsor
-ANFSCD - And Now For Something Completely Different
-ANGB - Almost Nearly Good Bridge
-AOAS - All Of A Sudden
-AOB - Abuse Of Bandwidth
-AON - Apropos Of Nothing
-AOR - Agency On Record or Album-Oriented Rock
-AOYP - Angel On Your Pillow
-AP - Apple Pie
-APAC - Asia-Pacific
-AR - Action Required
-AS - Ape Sh** or Another Subject
-ASAFP - As Soon As F***ing Possible
-ASAMOF - As A Matter Of Fact
-ASAP - As Soon As Possible
-ASAYGT - As Soon As You Get This
-ASL - Age/Sex/Location
-ASLMH - Age/Sex/Location/Music/Hobbies
-ATAB - Ain't That A Bitch
-ATC - Any Two Cards
-ATM - At The Moment, Asynchronous Transfer Mode, Automated Teller Machine
-ATSL - Along The Same Line
-ATST - At The Same Time
-ATW - All The Web, Around The Web, All The Way, At The Weekend
-ATWD - Agree That We Disagree
-AUNT - And U Know This
-AUNTM - And U Know This Man
-AWC - After While, Crocodile
-AWGTHTGTTA - Are We Going To Have To Go Through This Again
-AWHFY - Are We Having Fun Yet?
-AWLTP - Avoiding Work Like The Plague
-AWNIAC - All We Need Is Another Chair
-AWOL - Absent Without Leave
-AWTTW - A Word To The Wise
-axit - across it
-AYC - Aren't You Clever or Aren't You Cheeky
-AYCE - All You Can Eat
-AYFKMWTS - Are You F***ing Kidding Me With This Sh**
-AYK - As You Know
-AYMM - Are You My Mother
-AYOR - At Your Own Risk
-AYSOS - Are You Stupid Or Something
-AYTMTB - And You're Telling Me This Because
-AYV - Are You Vertical?
-
-B4 - Before
-BAE - Before Anyone Else
-BFF - Best Friends Forever
-BRB - Be right back
-BTAIM - Be that as it may
-BTW - By the way
-CC - Carbon copy
-CMGR - Community manager
-CMS - Content Management System
-CPC - Cost per click
-CPM - Cost per thousand
-CR - Conversion rate
-CRM - Customer Relationship Management
-CTA - Call-to-action
-CTR - Clickthrough rate
-CX - Customer experience
-DAE - Does anyone else … ?
-DM - Direct Message
-ELI5 - Explain like I’m 5 (years old)
-F2F - Face to face
-FaTH - First and Truest Husband
-FBF - Flashback Friday
-FF - Follow Friday
-FOMO - Fear of Missing Out
-FTFY - Fixed that for you
-FTW - For the win!
-FUTAB - Feet up, take a break
-FYI - For your information
-G2G - Got to to
-GG - Good game
-Gr8 - Great
-GTG - Got to go
-GTR - Got to run
-HBD - Happy birthday
-HMB - Hit me backHMU - Hit me up
-HT - Hat tip or Heard Through (to give thanks or acknowledgement to other)
-HTH - Here to help / Happy to help
-IANAD - I am not a doctor
-IANAL - I am not a lawyer
-ICYMI - In case you missed it
-IDC - I don’t care
-IDK - I don’t know
-IKR - I know, right?
-ILY - I love you
-IM - Instant message
-IMHO - In my humble opinionIMO - In my opinion
-IRL - In real life
-JK - Just kidding
-L8 - Late
-LMAO - Laughing my a** off
-LMK - Let me know
-LMS - Like my status
-LOL - Laughing out loud
-LOLz - Laughing out loud (plural/sarcastic)
-MCM - Man crush Monday
-MM - Music Monday
-MT - Modified tweet
-MTFBWY - May the force be with you
-NM - Not much
-NSFL - Not safe for life
-NSFW - Not safe for work
-NVM - Never mind
-OAN - On another note
-OH - Overheard
-OMG - Oh my God
-OMW - On my way
-OOTD - Outfit of the day
-OP - Original poster
-ORLY - Oh really?!
-OTP - One true pairing (meant for each other)
-POTD - Photo of the day
-PPC - Pay per click
-PM - Private message
-PPL - People
-PR - PageRank, or Public relations
-PV - Pageviews
-QOTD - Quote of the Day
-ROFL - Rolling on the floor laughing
-ROFLMAO - Rolling on the floor laughing my a** off
-RT - Retweet
-RTD - Real-time data
-SEM - Search engine marketing
-SEO - Search engine optimization
-SERP - Search engine results page
-SFW - Safe for work
-SM - Social media
-SMB - Small business
-SMH - Shaking my head
-SMM - Social media marketing
-SMO - Social media optimization
-SMP - Social media platform
-SoLoMo - Social, Local, Mobile
-SOV - Share of voice
-TBH - To be honest
-TBT - Throwback Thursday
-TGIF - Thank goodness it’s Friday
-TIL - Today I learned
-TL;DR - Too Long; Didn’t Read
-TMI - Too much information
-TOS - Terms of Service
-TTYL - Talk to you later
-TTYN - Talk to you never
-TTYS - Talk to you soon
-UGC - User generated content
-UI - User interface
-UV - Unique visitor
-UX - User experience
-WBU - What about you?
-WCW - Woman crush Wednesday
-WDYMBT - What do you mean by that?
-WOM - Word of mouth
-WOTD - Word of the Day
-YMMV - Your mileage may vary (your opinion might be different)
-YOLO - You only live once
-YSK - You should know
+69: AAAAA - American Association Against Acronym Abuse
+1695: PMJI - Pardon My Jumping In
+1884: SFLA - Stupid Four Letter Acronym
+850: GTG - Got To Go
+2426: YA - Yet Another -or- You -or- Your
+1333: LYMI - Love You, Mean It
+2073: TFMIU - The F***ing Manual Is Unreadable
+2058: TBU - Thinking 'Bout You
+1229: LD - Long Distance -or- Later Dude
+671: FLOTUS - First Lady Of The United States
+192: AYV - Are You Vertical?
+2394: WWJD - What Would Jesus Do?
+2384: WTSDS - Where The Sun Don't Shine
+1811: ROTGL - Rolling On The Ground Laughing
+1342: M8 or M8s - Mate -or- Mates
+804: GLB - Good Looking Boy
+618: ETLA - ETLA Extended Three-Letter Acronym (that is, an FLA)
+1730: PTOYED - Please Turn Off Your Electronic Devices
+2128: TOON - short for cartoon
+1513: NMTE - Now More Than Ever
+1153: JHOMF - Just Helping Out My Friend(s)
+1031: IJWTS - I Just Want To Say
+1234: LFTI - Looking Forward To It
+899: HHH - Hip Hip Hooray
+2050: TB - Titty Bar
+1352: MEGO - My Eyes Glaze Over
+1222: LAOJ - Laughing At Own Joke
+1073: INPO - In No Particular Order
+384: chillaxin - it means chilling and relaxing
+91: add - Address
+1328: LYKYAMY - Love You, Kiss You, Already Miss You
+141: ALTG - Act Locally, Think Globally
+1636: P&C; - Private & Confidential
+1656: PD - Public Domain
+1976: sry - it means sorry
+2388: WUF - Where You From
+149: ANFAWFOS - And Now For A Word From Our Sponsor
+2407: WYRN - What's Your Real Name?
+260: BG - Be Good
+597: EMEA - Europe, the Middle East, and Africa
+259: BFR - Big F***ing Rock
+1000: IFH8TABX - I F***ing Hate This Acronym Bollocks
+1449: NATO - No Action, Talk Only
+1115: IYCSSNASDSAAA - If You Can’t Say Something Nice About Someone Don’t Say Anything At All
+2064: TD&H; - Tall, Dark and Handsome
+2293: WC - Who Cares -or- Water Closet
+2134: TPIYP - To Put In Your Prayers
+1624: OTOH - On The Other Hand
+2083: TGAL - Think Globally, Act Locally
+1612: OOT - Out Of Touch
+1368: MIHAP - May I Have Your Attention Please
+612: ESFOAD - Eat Sh** F***Off And Die
+1593: OME - Oh My Evolution
+1437: N2MJCHBU - Not Too Much Just Chillin, How Bout You?
+1358: MfG - Mit freundlichen Gruessen
+2010: SWALBCAKWS - Sealed With A Lick Because A Kiss Won't Stick
+1688: PLUR - Peace, Love, Unity, Respect
+1170: K - OK
+1874: SED - Said Enough Darling
+353: BYAM - Between You And Me
+2265: W@ - What?
+115: AFIAA - As Far As I Am Aware
+2253: VWP - Very Well Played
+1601: ONID - Oh No I Didn't
+99: ADVD - Advised
+1566: O - Opponent -or- Over -or- Or
+953: IANADBIPOOTV - I Am Not A Doctor But I Play One On TV
+242: bcoz - because
+499: DGA - Don't Go Anywhere
+484: DDWI - Don't Dick With It
+2087: TIA - Thanks In Advance
+1944: SNNY - it means sunny
+886: HB - Hurry Back
+538: DORD - Department Of Redundancy Department
+1860: SAIA - Stupid Asses In Action
+1705: POAHF - Put On A Happy Face
+1492: NIFOC - Nude In Front Of The Computer
+2421: XOXOZZZ - Hugs and Kisses and Sweet Dreams
+189: AYOR - At Your Own Risk
+1231: LDR - Long Distance Relationship
+1285: LOMBARD - Lots Of Money But A Right Dick
+391: CINBA - Clad In Naught But Air
+1613: OOTB - Out Of The Box -or- Out Of The Blue
+2074: TFN - Thanks For Nothing -or- Til Further Notice
+481: DDAS - Don't Do Anything Stupid
+188: AYMM - Are You My Mother
+2423: XTC - Ecstasy
+602: EMP - Eat My Pussy
+383: CHA - Click Here Asshole
+697: FRZN - it means freezing
+1648: PB - Potty Break
+1297: LSB - Life Sucks Balls
+505: DH - Dear Husband
+656: FGDAI - Fuhgedaboudit -or- Forget About It
+2027: T&C; - Terms & Conditions
+1409: MTBF - Mean Time Before Failure
+1666: PFA - Pulled From Ass -or- Please Find Attached
+2147: TSH - Too Stinkin' Hot
+442: CUATU - See You Around The Universe
+974: ICW - I Can't Wait
+2409: WYSILOB - What You See Is A Load of Bullocks
+1496: NIMBY - Not In My Back Yard
+732: FYA - For Your Amusement
+825: GOL - Giggling Out Loud
+908: HIH - Hope It Helps
+1531: NQOCD - Not Quite Our Class Dear
+1826: RTFQ - Read The F***ing Question
+333: BTHOOM - Beats The Heck Out Of Me
+1026: IIWM - If It Were Me
+2149: TSIF - Thank Science It's Friday
+1571: OBE - Overcome By Events
+1953: SOI - Self Owning Idiot
+2333: WITW - What In The World
+1067: IMR - I Mean Really
+1248: LIFO - Last In, First Out
+270: BIF - Basis In Fact -or- Before I Forget
+413: CPG - Consumer Packaged Goods
+2301: WDR - With Due Respect
+2214: UNF - Universal Noise of Fucking
+1998: SU - Shut Up
+607: EOM - End Of Message
+1017: IINM - If I'm Not Mistaken
+1952: SOHF - Sense Of Humor Failure
+161: ASAFP - As Soon As F***ing Possible
+1572: OBO - Or Best Offer
+1813: ROTM - Right On The Money
+2093: TIME - Tears In My Eyes
+1794: RMB - Rings My Bell
+1818: RSVP - Repondez S'il Vous Plait
+562: DWB - Don't Write Back
+134: AISI - As I See It
+182: AWTTW - A Word To The Wise
+1903: SIL - Sister-In-Law
+367: C-P - Sleepy
+228: BBIAW - Be Back In A While
+1693: PMFJI - Pardon Me For Jumping In
+1415: MTSITN - More Than Ships In The Night
+1272: LMSO - Laughing My Socks Off
+940: HWGA - Here We Go Again
+1790: RL - Real Life
+402: CN - Can
+1165: JTLYK - Just To Let You Know
+1410: MTF - More To Follow
+1581: OG - Original Gangsta
+2500: \M/ - Heavy Metal Music
+309: BOTEC - Back Of The Envelope Calculation
+1968: SOTMG - Short On Time, Must Go
+673: FML - F*** My Life
+133: AISE - As I Said Earlier
+1447: NATC - Not A Text Conversation
+1395: MOTAS - Member Of The Appropriate Sex
+1980: SSEWBA - Someday Soon, Everything Will Be Acronyms
+1101: ITMA - It's That Man Again
+208: B4YKI - Before You Know It
+1919: SLAW - Sounds Like A Winner
+322: BSBD&NE; - Book Smart, Brain Dead & No Experience
+1668: PFM - Pure F***ing Magic
+496: DFTBA - Don't Forget To Be Awesome
+1277: LOB - Lying On Bed
+2175: TTYS - Talk To You Soon
+1822: RTBS - Reason To Be Single
+2489: YUMPI - Young Upwardly Mobile Professional Idiot
+2274: WAFB - What A F***ing Bitch
+2323: WIIFY - What's In It For You
+2132: TP - Team Player -or- TelePort -or- Thanks Pal -or- Toilet Paper
+1950: SOGOP - Sh** Or Get Off the Pot
+157: AP - Apple Pie
+2471: YMYBNYCSII - You Made Your Bed Now You Can Sleep In It
+2462: YLH - Your Loving Husband
+1057: IMHO - In My Humble Opinion
+1192: KMIM - Keep Me In Mind
+1203: KS - Kill Stealer
+2180: TWHAB - This Won't Hurt A Bit
+1052: IMFAO - In My F***ing Arrogant Opinion
+325: BSOD - Blue Screen of Death
+2307: WE - Whatever
+930: HTB - Hang The Bastards
+120: AFT - About F***ing Time
+2002: SUFI - Super Finger -or- Shut Up F***ing Imbecile
+560: DW - Don't Worry
+1314: LUMTP - Love You More Than Pie
+2177: TU - Toes Up (as in dead)
+508: DIC - Drunk In Charge
+629: FAB - Features Attributes Benefits
+401: CMU - Crack Me Up
+1096: ISYALS - I'll Send You A Letter Soon
+2331: WIT - Wordsmith In Training
+2440: YBF - You've Been F***ed
+1417: MUBAR - Messed up Beyond All Recognition
+263: BHG - Big Hearted Guy -or- Big Hearted Girl
+2065: TDM - Too Darn Many
+225: BBIAB - Be Back In A Bit
+520: DIY - Do It Yourself
+950: IAGTKOM - I Ain't Got That Kind Of Money
+815: GMTFT - Great Minds Think For Themselves
+1916: Sknkr - Skincare
+1701: PNCAH - Please, No Cursing Allowed Here
+2127: TOMTB - Taking Off My Training Bra
+548: DTC - Deep Throaty Chuckle
+590: EG - Evil Grin
+836: GRAS - Generally Recognized As Safe
+493: DF - Dear Friend
+1119: IYFEG - Insert Your Favorite Ethnic Group
+1019: IIRC - If I Remember Correctly -or- If I Recall Correctly
+622: EWI - E-mailing While Intoxicated
+2024: SYS - See You Soon
+966: IBTC - Itty Bitty Titty Committee
+808: GLYASDI - God Loves You And So Do I
+1768: RBAY - Right Back At You
+621: EVRE1 - Every One
+2168: TTTT - To Tell The Truth
+293: BMOTA - Byte Me On The Ass
+1084: IRL - In Real Life
+1747: QC - Quality Control
+1453: NB4T - Not Before Time
+1643: PA - Parent Alert
+2238: VBG - Very Big Grin
+2463: YLLO - You Lie Like Obama
+774: GFF - Go F***ing Figure
+1144: JDI - Just Do It
+1576: OCD - Obsessive Compulsive Disorder
+847: GTASC - Going To A Strip Club
+307: BON - Believe it Or Not
+2126: TOM - Tomorrow
+1536: NSA - No Strings Attached
+1260: LM4a~##zzzz> - Let's Meet For A Joint
+2379: WTHOW - White Trash Headline Of the Week
+1282: LOLPMP - Laugh Out Loud Peed My Pants
+2340: WLU2 - Wicked, Love You Too
+2491: YVW - You're Very Welcome
+2203: u8 - you ate?
+303: BOCTAAE - But Of Course There Are Always Exceptions
+1858: SADAD - Suck A Dick And Die
+2122: TNX - Thanks
+2189: TXS - Thanks
+314: BRB - Be Right Back
+1557: NVM - NeVer Mind
+1177: KFY -or- K4Y - Kiss For You
+2141: tripdub - it means www
+858: GTS - Google That Sh**
+186: AYFKMWTS - Are You F***ing Kidding Me With This Sh**
+765: GBG - Great Big Grin
+817: gn8 - good night
+1807: ROTFL - Rolling On The Floor Laughing
+2224: URSAI - You Are Such An Idiot
+2004: SUL - Snooze You Lose
+310: BOTL - Bra On The Loose
+534: DOC - Drug Of Choice
+2219: UOK - Are You OK?
+767: GBTW - Get Back To Work
+206: B4N - Bye For Now
+882: HAND - Have a Nice Day
+2242: VCDA - Vaya Con Dios, Amigo
+73: AAMOI - As A Matter Of Interest
+1207: KWSTA - Kiss With Serious Tongue Action
+2047: TAS - Taking A Shower
+1150: JGMB - Just Google Me B*tch
+2450: YGBK - You Gotta Be Kidding
+881: HAK - Hugs And Kisses
+90: ADBB - All Done Bye Bye
+272: BIO - Bring It On
+1891: shhh - quiet
+2085: TGIF - Thank God It's Friday
+1032: IKALOPLT - I Know A Lot Of People Like That
+2140: TRDMC - Tears Running Down My Cheeks
+1300: LSV - Language, Sex, Violence
+1500: NINO - Nothing In, Nothing Out -or- No Input, No Output
+429: CSL - Can't Stop Laughing
+1291: LORE - Learn Once, Repeat Everywhere
+2387: WU - What's Up
+1225: LBH - Let's Be Honest
+1910: SIUP - Suck It Up Pussy
+2103: TKO - Technical Knock Out
+744: G2G - Got to Go
+675: FMTYEWTK - Far More Than You Ever Wanted To Know
+807: GLGH - Good Luck and Good Hunting
+2162: TTMF - Ta Ta MOFO
+556: DUR - Do You Remember
+130: AIMB - As I Mentioned Before
+2296: WCMTSU - We Can't Make This Sh** Up
+748: G9 - Genius
+1792: RLF - Real Life Friend
+2063: TCOY - Take Care Of Yourself
+2015: SWIM - See What I Mean?
+681: FOAG - F*** Off And Google
+904: HHOS - Ha Ha, Only Serious
+1151: JHO - Just Helping Out
+2086: THX or TX or THKS - Thanks
+2267: WABOC - What A Bunch Of Crap
+240: BCBS - Big Company, Big School
+1689: PLZ - Please
+2225: URW - You Are Welcome
+2089: TIC - Tongue In Cheek
+1481: NFS - Need For Sex -or- Network File System
+2306: WDYT - What Do You Think?
+1355: MERP - Modestly Enlightened Rich People
+482: DDG - Drop Dead Gorgeous
+1699: PNATMBC - Pay No Attention To Man Behind the Curtain
+785: GGN - Gotta Go Now
+1363: mhhm - uh huh -or- yeah
+178: AWHFY - Are We Having Fun Yet?
+1421: MVA no PI - Motor Vehicle Accident with no Personal Injury
+871: H2S - Here To Stay
+806: GLG - Good Looking Girl
+1179: KIA - Killed In Action
+2205: UCWAP - Up a Creek Without A Paddle
+2105: tl;dr - too long; didn't read
+725: FUPA - Fat Upper Pussy Area
+1806: ROR - Raffing Out Roud (in scooby-doo dialect)
+1642: P911 - Parent Alert
+1760: r u there? - Are you there?
+1505: NLL - Nice Little Lady
+711: FTN - F*** That Noise
+721: FUD - Fear, Uncertainty, and Disinformation
+2271: WADI - What A Dumb Idea
+1172: KB - Kick Butt
+98: ADR - Address
+350: BWL - Bursting With Laughter
+1875: SEG - Sh** Eating Grin
+1544: NTBN - No Text Back Needed
+326: BT - Byte This
+1294: LPC - Lead Pipe Cinch
+1677: PIMPL - Peeing In My Pants Laughing
+1973: SRLB - Spoiled Rotten Little Brat
+1102: ITS - Intense Text Sex
+2454: YGTBK - You've Got To Be Kidding
+2152: TSR - Totally Stuck in RAM -or- Totally Stupid Rules
+1620: OTC - Over The Counter
+2370: WTFGDA - Way To F***ing Go, Dumb Ass
+1553: NTW - Not To Worry
+95: ADIP - Another Day In Paradise
+2501: ^5 - High Five
+1520: NO - Not Online
+1304: LTIO - Laughing Til I Orgasm
+1035: IKYABWAI - I Know You Are But What Am I?
+1167: JTOU - Just Thinking Of You
+2082: TG4A - Thank God For Acronyms
+239: BCBG - Bon Chic Bon Genre -or- Belle Cul Belle Geulle
+2240: VBS - Very Big Smile
+2196: TYL - Text You Later -or- Thank You Lord
+1295: LPOS - Lazy Piece Of Sh**
+1809: ROTFLMFAO - Rolling On The Floor Laughing My F***ing Ass Off
+1525: noob - also seen as: n00b -or- nub -or- no0blet
+1652: PBJ - Peanut Butter and Jelly -or- Pretty Boy Jock
+265: BHOF - Bald Headed Old Fart
+1587: OLL - OnLine Love
+2123: to go nookleer - to explode
+1292: LOU - Laughing Over You
+78: AAYF - As Always, Your Friend
+1962: SOOYA - Snake Out Of Your Ass
+441: CUATSC - See You At The Senior Center
+196: B/C - Because
+2179: TWD - Texting While Driving
+1049: IMCO - In My Considered Opinion
+2022: SYK - So You Know
+2338: WLMIRL - Would Like to Meet In Real Life
+1362: MHBFY - My Heart Bleeds For You
+1703: PO - Piss Off
+213: BAK - Back At Keyboard
+648: FDGB - Fall Down Go Boom
+2133: TPC - The Phone Company
+420: CRBT - Crying Real Big Tears
+2352: woot - We Own the Other Team
+860: GUD - Geographically UnDesirable
+87: ACK - Acknowledgement
+1217: L?^ - Let's hook up
+637: FAWC - For Anyone Who Cares
+2247: VIP - Very Important Person
+2009: SWAK - Sealed (or Sent) With A Kiss
+300: BOAISY - Bend Over And I'll Show You
+365: c%l - it means cool
+2007: SUYF - Shut Up You Fool
+1868: SCNR - Sorry, Could Not Resist
+2099: TISNF - That Is So Not Fair
+1637: P-ZA - Pizza
+404: COB - Close Of Business
+713: FTRF - F*** That's Really Funny
+1517: NNR - Need Not Respond
+450: CUWTA - Catch Up With The Acronyms
+803: GLAWD - Good Luck And Well Done
+1708: POMS - Parent Over My Shoulder
+279: BITCH - Basically In The Clear Homey
+691: FOOT - F*** Off Over There -or- go away
+1103: ITS A D8 - It's A Date
+274: BION - Believe It Or Not
+1552: NTTAWWT - Not That There's Anything Wrong With That
+1969: SOW - Speaking Of Which -or- Statement Of Work
+987: IDK, my BFF Jill - I Don't Know, my Best Friend Forever Jill
+1762: R&R; - Rest & Relaxation
+1649: PBB - Parent Behind Back
+2286: WAW - Waiter/Actor/Webmaster -or- What A Whore
+1477: NFE - No F***ing Excuses
+1188: KKK - it means "over" as in, waiting for your reply
+418: CRAWS - Can't Remember Anything Worth A Sh**
+335: BTOIYA - Be There Or It's Your Ass
+867: H&K; - Hugs and Kisses
+1183: KISS - Keep It Simple Stupid
+2449: YF - Wife
+1545: nth - nothing
+1133: J2LYK - Just To Let You Know
+1711: POS - Parent Over Shoulder -or- Piece Of Sh**
+229: BBL - Be Back Later
+2000: SUAKM - Shut Up And Kiss Me
+1503: NIYWFD - Not In Your Wildest F***ing Dreams
+1106: IURI - If You Are Interested
+430: CSN - Chuckle, Snicker, Grin
+768: GC - Good Crib
+112: AFC - Away From Computer
+411: COS - Change Of Subject -or- it means because
+1034: IKWYM - I Know What You Mean
+320: BS - Big Smile -or- Bull Sh** -or- Brain Strain
+1674: PICNIC - Problem In Chair, Not In Computer
+544: DRB - Dirty Rat Bastard
+1339: M4C - Meet for Coffee
+1375: MLA - Multiple Letter Acronym
+2012: SWDYT - So What Do You Think?
+1264: LMFAO - Laughing My F***ing Ass Off
+759: GALHIM - Get A Load of Him
+1931: SME - Subject Matter Expert
+665: FILTH - Failed In London, Try Hong Kong
+1840: RUMORF - Are You Male OR Female?
+1782: RGR - Roger
+2165: TTTH - Talk To The Hand
+2444: YCMTSU - You Can't Make This Sh** Up
+1740: pwn - own
+2334: WIU - Wrap It Up
+513: DINK - Double Incomes, No Kids
+2100: TISNT - That Is So Not True
+2321: WIBNI - Wouldn't It Be Nice If
+1932: SMEM - Send Me E-Mail
+306: BOHICA - Bend Over Here It Comes Again
+370: C/S - Change of Subject
+2464: YLW - Your Loving Wife
+396: CMAO - Chortling My Ass Off
+1658: PDOMA - Pulled Directly Out Of My Ass
+1445: NAMAILU - Not As Much As I Love You
+1224: LB?W/C - Like Bondage? Whips or Chains
+2138: TQM - Total Quality Management
+100: AEAP - As Early As Possible
+400: CMIW - Correct Me if I'm Wrong
+1174: KC - Keep Cool
+2129: TOPCA - Til Our Paths Cross Again
+1336: LYWAMH - Love You With All My Heart
+1214: L&R; - Love and Respect
+1577: ODTAA - One Damn Thing After Another
+777: GFON - Good For One Night
+1712: POSC - Piece Of Sh** Computer
+708: FTFOI - For The Fun Of It -or- For The F*** Of It
+938: HUYA - Head Up Your Ass
+1870: SCUICHT - So Coked Up I Can Hardly Type
+1042: ILUAAF - I Love You As A Friend
+801: GL - Good Luck -or- Get Lost
+446: CUNS - See You In School
+1190: KMBA - Kiss My Black Ass
+573: DYHAG - Do You Have A Girlfriend
+902: HHOJ - Ha Ha, Only Joking
+1397: MOTOS - Member(s) Of The Opposite Sex
+2402: WYFM - Would You F*** Me?
+1933: SMH - Shaking My Head
+2056: TBIU - The Bitch Is Ugly
+1756: QYB - Quit Your Bitching
+1482: NFW - No F***ing Way -or- No Feasible Way
+1429: N - No -or- And
+704: FTBOMH - From The Bottom Of My Heart
+77: AATK - Always At The Keyboard
+248: BDSM - Bondage, Dominance, Sadism, Masochism
+522: DK - Don't Know
+1551: NTMU - Nice To Meet You
+872: H4U - Hot For You
+2376: WTGP - Want To Go Private?
+428: CSABR - Continued Success And Best Regards
+2218: UNTCO - You Need To Chill Out
+2339: WLU - Wicked, Love You
+645: FCOL - For Crying Out Loud
+961: IBGYBG - I'll Be Gone, You'll Be Gone
+1638: P/U - Pick Up
+636: FAV - Favorite
+1724: PS - Post Script
+204: B2G - Business-to-Government
+2405: wymyn - women
+1838: RUH - Are You Horny?
+1512: NMP - Not My Problem
+1742: PWOMS - Parent Watching Over My Shoulder
+862: GWI - Get With It
+542: DQMOT - Don't Quote Me On This
+2197: TYVM - Thank You Very Much
+2260: w/r/t - with regard to
+1459: NBLFY - Nothing But Love For You
+1590: OM - Old Man
+638: FAWOMFT - Frequently Argued Waste Of My F***ing Time
+996: IDWTUB - I Don't Want To Upset You But
+1351: MDR - Mort De Rire
+2016: SWIS - See What I'm Saying
+934: HUA - Heads Up Ace -or- Head Up Ass -or- Heard, Understood, Acknowledged
+1930: SMD - Suck My Dick
+893: HBU - How Bout You?
+262: BHAG - Big Hairy Audacious Goal
+1396: MOTD - Message Of The Day
+1130: J/O - Jerking Off
+1401: MRM - Men's Rights Movement
+1097: ITA - I Totally Agree
+1325: LYA - Love You All
+694: FOUO - For Official Use Only
+1741: pwnt - owned
+1373: MITIN - More Info Than I Needed
+2005: sup - what's up?
+2322: WIIFM - What's In It For Me
+2419: XME - Excuse Me
+581: EADD - Entrepreneurial Attention Deficit Disorder
+1423: mvto - it means thank you
+1560: NWAL - Nerd Without A Life
+928: HSIK - How Should I Know
+318: BRT - Be Right There
+340: BTWBO - Be There With Bells On
+2216: unPC - unPolitically Correct
+2184: TWITA - That's What I'm Talking About
+1504: NJAPF - Not Just Another Pretty Face
+2118: TNA - Temporarily Not Available
+2121: TNTL - Trying Not To Laugh
+1823: RTFAQ - Read The FAQ
+1289: LOOMM - Laughing Out Of My Mind
+76: AAS - Alive And Smiling
+1634: OZ - Australia
+1337: M - Mom
+1573: OBTW - Oh By The Way
+916: HNY - Happy New Year
+1216: L8R - Later
+2415: WYWH - Wish You Were Here
+714: FTTB - For The Time Being
+786: GGOH - Gotta Get Out of Here
+1475: NFBSK - Not For British School Kids
+1218: L@U - Laughing At You -or- Laughing About You
+2414: WYW - Wish You Well
+2207: UDM - You're the Man
+1359: MFIC - Mother F***er In Charge
+433: CTC - Care To Chat -or- Contact -or- Choking The Chicken
+772: GDW - Grin, Duck and Wave
+2475: Yooper - someone from U.P.
+1083: IPN - I'm Posting Naked
+1615: OSIF - Oh Sh** I Forgot
+754: GAGFI - Gives A Gay First Impression
+661: FIGS - French, Italian, German, Spanish
+1112: IWSN - I Want Sex Now
+438: CTO - Check This Out
+1399: MPFB - My Personal F*** Buddy
+1198: KO - Knocked Out
+1721: pron - porn
+1706: POAK - Passed Out At Keyboard
+1672: PIAPS - Pig In A Pant Suit
+1187: KK - Kiss Kiss -or- OK
+1645: PANS - Pretty Awesome New Stuff
+1376: MLAS - My Lips Are Sealed
+302: BOBFOC - Body Off Baywatch, Face Off Crimewatch
+1205: KUTGW - Keep Up The Good Work
+2425: Y - Why? -or- Yes
+521: DJM - Don't Judge Me
+971: ICBWICBM - It Could Be Worse, It Could Be Me
+2346: WOA - Work Of Art
+1310: LTTIC - Look The Teacher Is Coming
+1018: IIR - If I Remember -or- If I Recall
+626: F2F - Face-to-Face, a.k.a. face time
+458: CYE - Check your Email
+1720: PPPPPPP or 7P - Prior Proper Planning Prevents Piss Poor Performance
+1157: JMO - Just My Opinion
+250: beos - Nudge
+1628: OTT - Over The Top
+781: GFYMF - Go F*** Yourself Mother F***er
+2208: UFN - Until Further Notice
+2167: TTTKA - Time To Totally Kick Ass
+841: GSC - Gimme Some Credit
+1691: PMBI - Pardon My Butting In
+167: ATAB - Ain't That A Bitch
+158: APAC - Asia-Pacific
+2344: WNDY - it means windy
+1129: J/K - Just Kidding
+727: FUW - F*** You World -or- F*** You Weirdo
+1311: LuK - it means good luck
+2102: TK - To Come
+797: GIST - Great Ideas for Starting Things
+1530: NQA - No Questions Asked
+278: BIOYN - Blow it Out Your Nose
+843: GSOH - Good Sense Of Humor
+2116: TMSGO - Too Much Sh** Going On
+1257: LLT - Looks Like Trouble
+802: GLA - Good Luck All
+173: ATWD - Agree That We Disagree
+1091: ISSYGTI - I'm So Sure You Get The Idea
+2248: VIV - Very Important Visitor
+2120: TNT - Til Next Time
+1726: PSO - Product Superior to Operator
+1219: LABATYD - Life's A Bitch And Then You Die
+2312: werubn - it means where have you been
+1200: KOTC - Kiss On The Cheek
+2431: YAFIYGI - You Asked For It You Got It
+1045: IM - Instant Messaging -or- Immediate Message
+912: HMFIC - Head MOFO In Charge
+530: DNC - Does Not Compute
+532: DNPMPL - Damn Near Pissed My Pants Laughing
+1743: PWP - Plot, What Plot?
+323: BSEG - Big Sh** Eating Grin
+2256: w's^ - what's up?
+1273: LMTA - Like Minds Think Alike
+1992: STPPYNOZGTW - Stop Picking Your Nose, Get To Work
+2279: WAI - What An Idiot
+2479: YS - You Stinker
+1585: OK - okay -or- all correct
+1024: IITYWYBMAD - If I Tell You Will You Buy Me A Drink
+1857: S4L - Spam For Life
+1753: QQ - Quick Question -or- Cry More
+1988: sth - something
+782: GG - Good Game -or- Gotta Go -or- Giggling
+1098: ITFA - In The Final Analysis
+504: DGYF - Damn Girl You're Fine
+756: GAL - Get A Life
+359: BYOW - Build Your Own Website -or- Bring Your Own Wine
+118: AFK - Away From Keyboard -or- A Free Kill
+1863: SB - Stand By
+1852: S - Smile
+2485: YTB - You're The Best
+1788: RIYL - Recommended If You Like
+233: BBS - Be Back Soon -or Bulletin Board Service
+1829: RTM or RTFM - Read The Manual -or- Read The F***ing Manual
+1134: J4F - Just For Fun
+778: GFR - Grim File Reaper
+1428: MYT - Meet You There
+1997: STYS - Speak To You Soon
+541: DPUP - Don't Poop Your Pants
+1242: LHM - Lord Have Mercy
+1090: ISSOYS - I'm So Sick Of Your Stuff -or- S*** -or- Stories
+140: ALOTBSOL - Always Look On The Bright Side Of Life
+755: GAHOY - Get A Hold Of Yourself
+1488: NI - Not Interested
+219: BB4N - Bye Bye for Now
+741: FYSBIGTBABN - Fasten Your Seat Belts It's Going To Be A Bumpy Night
+2330: WISP - Winning Is So Pleasureable
+1383: MO - Move On
+1208: KYBC - Keep Your Bum Clean
+702: FTASB - Faster Than A Speeding Bullet
+2008: SWAG - Scientific Wild Ass Guess -or- SoftWare And Giveaways
+453: CWYL - Chat With You Later
+690: FOMOF - Fear Of Missing Out on Football
+2030: T2UL - Talk To You Later
+1468: ne14kfc - anyone for KFC?
+1605: OO - Over and Out
+1030: IJWTK - I Just Want To Know
+1562: NWR - Not Work Related
+2234: UWIWU - You Wish I Was You
+577: DYSTSOTT - Did You See The Size Of That Thing
+1744: PYFB - Pay Your F***ing Bill
+1922: SLOM - Sticking Leeches On Myself
+1107: IWALU - I Will Always Love You
+1879: SEX - Sun Users' Group -or- ALL CAPS for sex
+1176: kewl - it means cool
+1680: PITA - Pain In The Ass
+1015: IIIO - Intel Inside, Idiot Outside
+461: CYO - See You Online
+1491: NIDL - Not Interested, DisLike
+1104: ITSFWI - If The Shoe Fits Wear It
+94: ADIH - Another Day In Hell
+890: HBIC - Head Bitch In Charge
+989: IDKY - I Don't Know You
+918: HOHA - HOllywood HAcker
+163: ASAP - As Soon As Possible
+1069: IMS - I Am Sorry
+445: CULA - See You Later Alligator
+731: FWOT - F***ing Waste Of Time
+1533: NRG - Energy
+831: GOYHH - Get Off Your High Horse
+2113: TMALSS - To Make A Long Story Short
+985: IDIFTL - I Did It For The Lulz
+561: DW2H - Don't Work Too Hard
+1184: KIT - Keep In Touch
+1054: IMGC - I Might Get Caught
+1873: sec - wait a second
+1002: IGGP - I Gotta Go Pee
+1738: PWCB - Person Will Call Back
+1307: LTNT - Long Time, No Type
+1004: IGWS - It Goes Without Saying
+1989: STHU - Shut The Hell Up
+1398: MOTSS - Member(s) Of The Same Sex
+693: FOS - Full Of Sh**
+1085: IRNCOT - I'd Rather Not Comment On That
+1966: SOSAD - Same Old Song And Dance
+114: AFGO - Another F***ing Growth Opportunity
+1798: RMMM - Read My Mail Man
+2492: YW - You're Welcome
+495: DFLA - Disenhanced Four-Letter Acronym (that is, a TLA)
+1686: PLS - Please
+1898: SIA - Say It Again
+1996: STW - Search The Web
+2192: TXT MSG - text message
+2410: WYSIWYG - What You See Is What You Get
+719: FUBB - F***ed Up Beyond Belief
+588: effin - F***ing
+474: DBA - Doing Business As
+435: CTFO - Come The F*** On
+2374: WTG - Way To Go
+1864: SBI - Sorry 'Bout It
+2060: TC - Take Care
+194: B&E; - Breaking & Entering
+1578: OF - Old Fart
+1561: NWOT - New WithOut Tags
+2204: UBS - Unique Buying State
+1127: J/C - Just Checking
+2395: WWNO - Walker Wheels Need Oil
+1646: PAW - Parents Are Watching
+2049: TAYN - Thinking About You Now
+616: ESO - Equipment Smarter than Operator
+234: BBSD - Be Back Soon Darling
+369: C/P - Cross Post
+1979: SSDD - Same Sh** Different Day
+1136: J4T or JFT - Just For Today
+1255: LLAP - Live Long and Prosper
+735: FYEO - For Your Eyes Only
+236: BBT - Be Back Tomorrow
+1748: QFT - Quoted For Truth -or- Quit F***ing Talking
+1524: NOFI - No OFfence Intended
+948: IAC - In Any Case -or- I Am Confused -or- If Anyone Cares
+68: A3 - Anytime, Anyplace, Anywhere
+2456: YHM - You Have Mail
+936: HUGZ - Hugs
+1904: SIN - Stop It Now
+942: I 1-D-R - I Wonder
+1776: RESO - Reservation
+863: GWOT - Glorified Waste Of Time
+798: GIWIST - Gee, I Wish I'd Said That
+1820: RTB - Returning To Base
+1804: ROFLMAOASTC - Rolling On Floor Laughing My Ass Off And Scaring The Cat
+1981: SSIA - Subject Says It All
+164: ASAYGT - As Soon As You Get This
+82: ABITHIWTITB - A Bird In The Hand Is Worth Two In The Bush
+747: G4N - Good For Nothing
+1659: PDQ - Pretty Darn Quick
+2367: WTDB - What's The Difference Between
+1535: NS - Nice Set -or- No Show
+750: GA - Go Ahead -or- Good Afternoon
+1050: IME - In My Experience
+1055: IMHEIUO - In My High Exalted Informed Unassailable Opinion
+1970: soz - Sorry
+201: B2C - Business-to-Consumer
+1441: NAGB - Nearly Almost A Good Bridge
+1382: MMYT - Mail Me Your Thoughts
+1126: IYSWIM - If You See What I Mean
+337: BTSOOM - Beats The Sh** Out Of Me
+1371: MINS - Minutes
+241: BCNU - Be Seeing You
+348: BWDIK - But What Do I Know
+805: GLBT - Gay, Lesbian, Bisexual, Transgender
+2328: WIP - Work In Process
+220: BBAMFIC - Big Bad Ass Mother F***er In Charge
+1830: RTS - Read The Screen
+978: ID - IDentification
+599: EMFJI - Excuse Me For Jumping In
+1366: MIA - Missing In Action
+266: BI - Business Intelligence
+1609: OOI - Out Of Interest
+136: AKA or a.k.a. - Also Known As
+1623: OTL - Out To Lunch
+1842: RUOK - Are You OK?
+1044: ILY2 - I Like/Love You Too
+2357: WOTD - Word Of The Day
+2316: WG - Wicked Grin
+875: HADVD - Have Advised
+2080: TFX - Traffic
+1252: LJBF - Let's Just Be Friends
+2429: YACC - Yet Another Calendar Company
+1657: PDA - Personal Digital Assistant -or- Public Display of Affection
+1812: ROTGLMAO - Rolling On The Ground Laughing My Ass Off
+1426: MYL - Mind Your Language
+1764: RAF - Random As F***
+1212: KYSOTI - Keep Your Stick On The Ice
+2048: TAW - Teachers Are Watching
+1175: KCCO - Keep Calm & Carry On
+551: DTRT - Do The Right Thing
+294: BMS - Baby Making Sex
+354: BYKI - Before You Know It
+2305: WDYS - What Did You Say?
+304: BOD - Benefit of the Doubt -or- Board Of Directors
+1723: PRW - Parents Are Watching
+1814: RPG - Role Playing Games
+1927: SMAO - Sweating My Ass Off
+1068: IMRU - I Am, Are You?
+235: BBSL - Be Back Sooner or Later
+1116: IYD - In Your Dreams
+1370: MILF - Mother I'd Like to F***
+2035: TABOOMA - Take A Bite Out Of My Ass
+1332: LYLB - Love You Later Bye
+1908: SITD - Still In The Dark
+823: GOI - Get Over It
+1866: SBUG - Small Bald Unaudacious Goal
+1243: LHO - Laughing Head Off
+316: BRL - Belly Roll Laughs
+1166: JTOL - Just Thinking Out Loud
+1595: OMG - Oh My God
+1627: OTS - On The Scene -or- On The Spot -or- Off The Shelf
+2332: WITFITS - What In The F*** Is This Sh**
+1849: RYFM - Read Your Friendly Manual
+305: BOFH - Bastard Operator From Hell
+1957: SOL - Sh** Out of Luck -or- Sooner Or Later
+2392: wuz4dina - What's for dinner?
+1427: MYOB - Mind Your Own Business
+1140: JAFS - Just A F***ing Salesman
+1186: KITY - Keep It To Yourself
+1856: S4B - Sh** for Brains
+72: AAMOF - As A Matter Of Fact
+712: FTR - For The Record
+1239: LH - Laughing Hysterically
+1796: RMLB - Read My Lips Baby
+2469: YMMD - You Make My Day -or- You Made My Day
+1340: M4M - Men for Men -or- Male for Male
+2381: WTMI - Way Too Much Information
+724: FUMF - Fat Ugly Mother F***er
+536: DOEI - Goodbye (in Dutch)
+1983: STBX - Soon To Be Ex
+2161: TTKSF - Trying To Keep a Straight Face
+1139: JAFO - Just Another F***ing Onlooker
+2146: TSB - Tall, Sexy, Beautiful
+119: AFPOE - A Fresh Pair Of Eyes
+1540: NSTLC - Need Some Tender Loving Care
+790: GHM - God Help Me
+1254: LL - Livin' Large
+2154: TSTB - The Sooner, The Better
+1079: IOTTCO - Intuitively Obvious To The Casual Observer
+2013: sweet<3 - sweetheart
+397: CMAP - Cover My Ass Partner
+1066: IMPOV - In My Point Of View
+982: IDGAF - I Don't Give A F***
+631: FAH - F***ing A Hot
+1896: SHTF - Sh** Hits The Fan
+1607: OOC - Out Of Character -or- Out Of Control
+339: BTW - By The Way -or- Bring The Wheelchair
+567: DWS - Driving While Stupid
+519: DITYID - Did I Tell You I'm Distressed
+284: BL - Belly Laughing
+257: BFG - Big F***ing Gun
+1841: RUNTS - Are You Nuts?
+896: HDGFS - How Does Get F***ed Sound?
+870: H2CUS - Hope To See You Soon
+1773: RDV - Reader's Digest Version
+2342: WMMOWS - Wash My Mouth Out With Soap
+924: HPOA - Hot Piece Of Ass
+910: HIPPO - Higher Income People's Personal Opinions
+1202: KPC - Keeping Parents Clueless
+269: BIBO - Beer In, Beer Out
+1062: IMNSHO - In My Not So Humble Opinion
+861: guvment - government, also seen as guvmint, gumint
+527: DM - Direct Message
+152: AOAS - All Of A Sudden
+615: ESMF - Eat Sh** Mother F***er
+2477: YR - Yeah Right -or- you -or- your
+895: HD - Hold
+586: EE - Electronic Emission
+226: BBIAF - Be Back In A Few
+455: CxO - Chief insert title here Officer
+2043: TANSIT - There's A New Sheriff In Town
+1471: NEET - Not currently Engaged in Employment, Education, or Training
+905: HHTYAY - Happy Holidays To You And Yours
+2390: WUWHIMA - Wish You Were Here In My Arms
+392: CIO - Check It Out -or- Chief Information Officer / Chief Internet Officer
+1059: IMJS - I'M Just Saying
+983: IDGARA - I Don't Give A Rats Ass
+1547: NTIMM - Not That It Matters Much
+1986: STFU - Shut The F*** Up
+2031: T2UT - Talk To You Tomorrow
+1353: meh - Who cares, whatever
+436: CTFU - Cracking The F*** Up
+292: BMOF - Bite Me Old Fart
+1487: NHOH - Never Heard Of Him/Her
+878: HAGN - Have A Good Night
+1131: J/P - Just Playing
+1444: NALOPKT - Not A Lot Of People Know That
+2172: TTYL - Talk To You Later -or- Type To You Later
+1671: PHS - Pointy Haired Stupidvisor
+1780: RFS - Really F***ing Soon
+1837: RUFKM - Are You F***ing Kidding Me?
+1831: RTSM - Read The Silly Manual
+1714: POTATO - Person Over Thirty Acting Twenty One
+2275: WAFM - What A F***ing Mess
+1635: P - Partner
+1318: LUSM - Love You So Much
+156: AOYP - Angel On Your Pillow
+1564: NYC - Not Your Concern
+1497: NIMJD - Not In My Job Description
+1279: LOL - Laughing Out Loud -or- Lots Of Love -or- Living On Lipitor
+1095: ISWYM - I See What You Mean
+606: EOL - End Of Life
+1123: IYO - In Your Opinion
+1575: OC - Original Character -or- Own Character
+1046: IM2BZ2P - I aM Too Busy To (even) Pee
+1147: JEOMK - Just Ejaculated On My Keyboard
+1011: IHTFP - I Have Truly Found Paradise -or- I Hate This F***ing Place
+1763: RAEBNC - Read And Enjoyed, But No Comment
+261: BGF - Best GirlFriend
+1697: PMP - Peeing My Pants
+414: CQRT - Security
+80: ab/abt - about
+1163: JSYK - Just So You Know
+2348: WOM - Word Of Mouth -or- Word Of Mouse
+568: DWWWI - Surfing the World Wide Web while intoxicated
+1338: M2NY - Me Too, Not Yet
+2217: UNT - Until Next Time
+2313: WETSU - We Eat This Sh** Up
+1883: SFETE - Smiling From Ear To Ear
+1346: MB - Message Board
+992: IDST - I Didn't Say That
+1895: SHT - it means so hot
+728: FWB - Friends With Benefits
+2144: TRP - Television Rating Points
+569: DWYM - Does What You Mean
+1511: NMHJC - Not Much Here, Just Chilling
+2003: SUFID - Screwing Up Face In Disgust
+1250: LIR - Let It Rest
+1412: MTLA - My True Love Always
+1647: PAX - Passengers
+1125: IYSS - If You Say So
+361: BZ - Busy
+1521: no praw - no problem
+1196: KMUF - Kiss Me You Fool
+1025: IIWII - It Is What It Is
+1473: NEV - Neighborhood Electric Vehicle
+920: HOT PIC - Hot Picture, as in sexy or naked
+939: HV - Have
+1278: LOK - Lots Of Kisses
+2157: TTBOMK - To The Best Of My Knowledge
+159: AR - Action Required
+2098: TISNC - This Is So Not Cool
+145: AMBW - All My Best Wishes
+2391: wuz - was
+2139: TRAM - The Rest Are Mine
+1013: IHY - I Heart You -or- I Hate You
+1719: PPL - People -or- Pay-Per-Lead -or- Pay Per Lead
+1478: NFF - No F***ing Fair
+660: FIGMO - F*** It Got My Orders
+1890: SHB - Should Have Been
+1913: SJ - Strong Jaws
+489: dese - these
+635: FATM - Foaming At The Mouth
+1751: QLS - Reply
+779: GFTD - Gone For The Day
+1008: IHAIM - I Have Another Instant Message
+1941: SNIF - Simple Nice Index File
+232: BBR - Burnt Beyond Repair
+555: dunno - i don't know
+2324: WIIWII - Well It Is What It Is
+733: FYC - For Your Consideration
+787: GGP - Gotta Go Pee
+1268: LMKHTWOFY - Let Me Know How That Works Out For You
+877: HAGD - Have a Great Day
+2272: WADR - With All Due Respect
+1923: SLT - Something Like That
+962: IBIWISI - I'll Believe It When I See It
+1611: OOS - Out Of Stock
+1876: SEP - Somebody Else's Problem
+2345: WNOHGB - Where No One Has Gone Before
+670: FLA - Four Letter Acronym
+2136: TPT - Trailor Park Trash
+1146: Jealz - Jealous
+2318: WGMGD - What Get's Measured Get's Done
+2078: TFTT - Thanks For The Thought
+780: GFY - Good For You -or- Go F*** Yourself -or- Go Find Yourself
+1416: MUAH or MWAH - The sound of a kiss
+592: EL - Evil Laugh
+324: BSF - But Seriously, Folks
+1786: RIMJS - Really I'M Just Saying
+1964: SorG - Straight or Gay
+1020: IIT - Is It Tight?
+243: BD - Big Deal -or- Baby Dance -or- Brain Drain
+1967: SOT - Short On Time
+1664: peeps - people
+473: DARFC - Ducking And Running For Cover
+2114: TMI - Too Much Information
+580: EABOS - Eat A Bag Of Sh**
+468: D2D - Developer-to-Developer or Day-to-Day
+623: EZ - Easy
+486: DEGT - Don't Even Go There
+1589: OLO - Only Laughed Once
+1803: ROFLMAO - Rolling On Floor Laughing My Ass Off
+2095: TINWIS - That Is Not What I Said
+1877: SETE - Smiling Ear To Ear
+1474: NEWS - North, East, West, South
+1290: LOPSOD - Long On Promises, Short On Delivery
+2037: TAFN - That's All For Now
+663: FIL - Father-In-Law
+873: H4XX0R - Hacker -or- To Be Hacked
+1799: RN - Right Now
+2459: YIWGP - Yes, I Will Go Private
+1009: IHNC - I Have No Clue
+652: FF&PN; - Fresh Fields and Pastures New
+935: HUD - How You Doing?
+676: FMUTA - F*** Me Up The Ass
+2351: WOOF - Well Off Older Folks
+147: AML - All My Love
+821: GNSD - Good Night Sweet Dreams
+2400: WYCM - Will You Call Me?
+1716: POTUS - President of the United States
+659: FIGJAM - F*** I'm Good Just Ask Me
+1901: SICS - Sitting In Chair Snickering
+1519: NNWW - Nudge, Nudge, Wink, Wink
+2150: TSNF - That's So Not Fair
+578: E123 - Easy as One, Two, Three
+2173: TTYL8R - Talk To You Later
+1414: MTSBWY - May The Schwartz Be With You
+827: GOOD job - Get Out Of Debt job
+876: hag1 - have a good one
+689: FOMO - Fear Of Missing Out
+1729: PTMM - Please Tell Me More
+2289: WAYN - Where Are You Now?
+2461: YKWIM - You Know What I Mean
+818: GNBLFY - Got Nothing But Love For You
+1906: SIT - Stay In Touch
+1650: PBEM - Play By EMail
+1909: SITUBI - Say It Til You Believe It
+2211: UGC - User-Generated Content
+1990: STM - Spank The Monkey
+1137: J5M - Just Five Minutes
+2221: ur - you are
+1403: MSG - Message
+1074: INUCOSM - It's No Use Crying Over Spilt Milk
+891: HBO - Helping a Brother Out
+1770: RBU - Rainbows, Butterflies, Unicorns
+109: AFAIUI - As Far As I Understand It
+1164: JT - Just Teasing
+2188: TWU - That's What's Up
+906: Hi 5 - High Five
+2438: YAUN - Yet Another Unix Nerd
+1731: PTP - Pardon The Pun
+1306: LTNS - Long Time No See
+1588: OLN - OnLine Netiquette
+2343: WMPL - Wet My Pants Laughing
+2084: TGGTG - That Girl/Guy has Got To Go
+358: BYOD - Bring Your Own Device
+501: DGARA - Don't Give A Rat's Ass
+605: EOD - End Of Day -or- End Of Discussion
+2303: WDYM - What Do You Mean?
+2268: WABOM - What A Bunch Of Malarkey
+1379: MMHA2U - My Most Humble Apologies To You
+594: EM - Excuse Me
+2490: YUPPIES - Young Urban Professionals
+422: CRDTCHCK - Credit Check
+678: FO - F*** Off
+526: DLTM - Don't Lie To Me
+1001: IFU - I F***ed Up
+1655: PCMCIA - People Can't Memorize Computer Industry Acronyms
+1946: SOB - Son Of a B*tch
+488: DENIAL - Don't Even Notice I Am Lying
+1390: MOOS - Member Of The Opposite Sex
+385: chln - it means chilling
+753: GAFYK - Get Away From Your Keyboard
+480: DD - Due Diligence
+1313: lulz - laughs or LulzSec
+1832: RTSS - Read The Screen Stupid
+739: FYLTGE - From Your Lips To Gods Ears
+2266: WABI - What A Bright Idea
+1769: RBTL - Read Between The Lines
+1839: RUMCYMHMD - Are You on Medication Cause You Must Have Missed a Dose
+1755: QT - Cutie -or- Quiet
+1702: PND - Possibly Not Definitely -or- Personal Navigation Device
+2096: TISC - This Is So Cool
+784: GGGG - God, God, God, God
+2283: WAS - What A Slut
+1917: SL - Second Life
+1256: LLOM - Like Leno on Meth
+941: hx - it means history -or- hospital
+883: HAR - Hit And Run
+1592: OMDB - Over My Dead Body
+775: GFI - Go For It
+2215: UNOIT - You Know It
+1902: SII - Seriously Impaired Imagination
+462: CYOH - Create Your Own Happening
+2363: WRUDATM - What Are You Doing At The Moment?
+1784: RHK - RoundHouse Kick
+1064: IMOO - In My Own Opinion
+552: DUI - Driving Under the Influence
+2023: SYL - See You Later
+2299: WDALYIC - Who Died And Left You In Charge?
+1845: RUT - Are You There?
+143: AMA - Ask Me Anything
+901: HHO1/2K - Ha Ha, Only Half Kidding
+1392: MorF - Male or Female
+237: BBW - Big Beautiful Woman -or- Big Black Woman
+1819: RT - Real Time -or- ReTweet
+2472: YNGBT - You're Not Gonna Believe This
+1681: PITMEMBOAM - Peace In The Middle East My Brother Of Another Mother
+2497: zerg - To gang up on someone
+1861: SANM - Starting A New Message
+2069: TFDS - That's For Darn Sure
+2457: YIC - Yours In Christ
+2001: SUB - Shut Up Bitch
+2482: YSIC - Why Should I Care?
+1029: IJS - I'm Just Saying...
+2255: w wult - what would you like to talk about
+1548: NTK - Nice To Know
+1329: LYL - Love You Lots
+1828: RTK - Return To Keyboard
+2019: SWMBO - She Who Must Be Obeyed
+93: ADIDAS - All Day I Dream About Sex
+2364: WSU - What Say You?
+1349: MCM - Man Crush Monday
+1678: PIN - Person In Need -or- Personal Identification Number
+844: GSW - Gun Shot Wound
+2076: TFTC - Thanks For The Cache
+1056: IMHIF - I Move How I Feel
+654: FFS - For F*** Sake
+1315: LUMU - Love You Miss You
+449: CUPL - Couple
+2017: SWIT - Sit and Sweat
+1191: KMFHA - Kiss My Fat Hairy Ass
+657: FIF - F*** I'm Funny
+2108: TLGO - The List Goes On
+1713: POSSLQ - Persons of the Opposite Sex Sharing Living Quarters
+1298: LSHITIPAL - Laughing So Hard I Think I Peed A Little
+740: FYM - For Your Misinformation
+2297: WCW - Woman Crush Wednesday
+1892: SHID - Slap Head In Disgust
+321: BSAAW - Big Smile And A Wink
+1614: OOTC - Obligatory On Topic Comment
+2036: TAF - That's All, Folks
+254: BFF - Best Friends Forever -or- Best Friend's Funeral
+1945: SO - Significant Other
+1209: KYFC - Keep Your Fingers Crossed
+1529: NP - No Problem -or- Nosy Parents
+1555: NUB - New person to a site or game
+923: HP - Higher Power
+1180: KIBO - Knowledge In, Bullsh** Out
+1621: OTF - On The Floor -or- On The Fone
+603: EMRTW - Evil Monkey's Rule The World
+1542: NTABOM - Now That's A Bunch Of Malarkey
+1483: NG - New Game
+1171: KAB - Kick Ass Bitch
+162: ASAMOF - As A Matter Of Fact
+84: ABT2 - About To
+1994: STS - So To Speak
+749: g98t - good night
+955: IANAL - I Am Not A Lawyer
+1316: LUMUMI - Love You Miss You Mean It
+852: GTGP - Got To Go Pee
+1393: MOS - Mom Over Shoulder
+914: HNTI - How Nice That/This Is
+439: CU - See You -or- Cracking Up
+456: CY - Calm Yourself
+1302: LTHTT - Laughing Too Hard To Type
+2135: TPS - That's Pretty Stupid
+1626: OTR - On The Road
+2032: T@YL - Talk At You Later
+210: BABY - Being Annoyed By You
+2251: VSF - Very Sad Face
+2276: WAFS - Warm And Fuzzies
+150: ANFSCD - And Now For Something Completely Different
+1750: QL - Quit Laughing
+792: GIC - Gift In Crib
+832: GQMF - Gentleman's Quarterly Mother F***er
+181: AWOL - Absent Without Leave
+1078: IOT - In Order To
+1754: QS - Quit Scrolling
+355: BYKT - But You Knew That
+221: BBB - Bye Bye Babe -or- Boring Beyond Belief
+2432: YAHOO - You Always Have Other Options
+66: A/S/L/P - Age/Sex/Location/Picture
+546: DRIB - Don't Read If Busy
+1284: LOLZ - Lots Of Laughs
+1323: LY - Love You
+277: BIOYIOP - Blow It Out Your I/O Port
+1771: RC - Remote Control
+653: FFA - Free For All
+491: dewd - dude
+295: BMW - B*tch, Moan, Whine
+613: ESG - Environmental, Social, Governance
+214: BAMF - Bad Ass Mother F***er
+1700: PNATTMBTC - Pay No Attention To The Man Behind The Curtain
+2057: TBT - Throwback Thursday
+1893: SHIT - Sugar Honey Ice Tea
+1236: LG - Life's Good -or- Long Gone
+2281: WAMBAM - Web Application Meets Brick And Mortar
+1682: pix - pictures -or- photos
+2183: TWIT - That's What I Thought
+81: ABC - Always Be Creating -or- Collaborating -or- Communicating
+1132: J/W - Just Wondering
+2142: TRNDO - it means tornado
+1843: RUS - Are You Serious?
+1783: RHIP - Rank Has Its Privileges
+1072: INNW - If Not Now When?
+547: DSTR8 - Damn Straight
+868: h/o - Hold On
+668: FITB - Fill In The Blanks
+2499: ZZZ - Sleeping, Bored, Tired
+1675: PIF - Paid In Full
+980: IDC - I Don't Care
+1394: MOSS - Member(s) Of The Same Sex
+630: FAF - Find A Friend
+959: IAW - I Agree With -or- In Accordance With
+1160: JOY - Jesus first, Others second, Yourself last
+2380: WTMC - What The Mother C***
+911: HITAKS - Hang In There And Keep Smiling
+981: IDGAD - I Don't Give A Damn
+1507: NM - Never Mind -or- Nothing Much -or Not Much -or- Nice Move
+814: GMTA ASDO - Great Minds Think Alike, And So Do Ours
+1644: PAL - Parents Are Listening -or- Peace And Love
+116: AFINIAFI - A Friend In Need Is A Friend Indeed
+1928: SMART - Self-Monitoring, Analysis and Reporting Technology
+153: AOB - Abuse Of Bandwidth
+2243: VEG - Very Evil Grin
+1324: LY4E - Love You Forever
+2164: TTT - That's The Ticket -or- To The Top -or- Thought That Too
+1651: PBIAB - Pay Back Is A Bitch
+166: ASLMH - Age/Sex/Location/Music/Hobbies
+2006: sux - sucks
+1982: STA - Short Term Attitude
+1076: ION - Index Of Names
+1565: NYCFS - New York City Finger Salute
+1568: OATUS - On A Totally Unrelated Subject
+387: CICO - Coffee In, Coffee Out
+124: AGB - Almost Good Bridge
+2478: YRYOCC - You're Running on Your Own Cuckoo Clock
+1862: SAPFU - Surpassing All Previous Foul Ups
+972: ICCL - I Couldn't Care Less
+2371: WTFH - What The F***ing Hell
+1244: LHOS - Lets Have Online Sex
+1570: OB - Obligatory
+1182: KIR - Keep It Real
+258: BFN - Bye For Now
+1846: RUUP4IT - Are You Up For It?
+1854: S2U - Same To You
+1061: IMNERHO - In My Never Even Remotely Humble Opinion
+386: CIAO - Goodbye (in Italian)
+1606: OOAK - One Of A Kind
+889: HBIB - Hot But Inappropriate Boy
+1586: OL - Old Lady
+1960: SOMF - Sit On My Face
+840: GRRR - Growling
+151: ANGB - Almost Nearly Good Bridge
+1442: NAGI - Not A Good Idea
+885: HAY - How Are You?
+103: AFAIC - As Far As I'm Concerned
+947: I-D-L - Ideal
+506: DHYB - Don't Hold Your Breath
+796: GILF - Grandmother I'd Like to F***
+327: BTA - But Then Again -or- Before The Attacks
+680: FOAF - Friend Of A Friend
+170: ATSL - Along The Same Line
+331: BTFLDY - it means beautiful day
+330: BTDTGTS - Been There, Done That, Got The T-shirt
+1663: PEEP - People Engaged and Empowered for Peace
+180: AWNIAC - All We Need Is Another Chair
+2378: WTHIN - What The Hell Is Next
+1181: KIPPERS - Kids In Parents' Pockets Eroding Retirement Savings
+2285: WATN - Where Are They Now
+2436: YATFM - You Are Too F***ing Much
+913: HMU - Hit Me Up
+142: ALW - Ain't Life Wonderful
+2051: TBA - To Be Advised
+1938: SNAFU - Situation Normal, All F***ed Up
+1010: IHNO - I Have No Opinion
+1262: LMBAO - Laughing My Black Ass Off
+381: CF - Coffee Freak -or- Cluster F***
+195: B&F; - Back and Forth
+1907: SITCOM - Single Income, Two Children, Oppressive Mortgage
+535: DOE - Depends On Experience
+834: GR2BR - Good Riddance To Bad Rubbish
+1267: LMK - Let Me Know
+715: FTW - For The Win -or- F*** The World
+674: FMLTWIA - F*** Me Like The Whore I Am
+1271: LMS - Like My Status -or- Learning Management System
+529: DNBL8 - Do Not Be Late
+545: DRCOWOTO - Don't Really Care One Way Or The Other
+2453: YGM - You've Got Mail
+682: fob - the name for a tool, or form of ID
+2209: UFUF - You F***, You Fix
+168: ATC - Any Two Cards
+2104: TKU4UK - Thank You For Your Kindness
+2011: SWALK - Sealed With A Loving Kiss
+998: IF/IB - In the Front -or- In the Back
+2159: TTG - Time to Go
+1972: SPOC - Single Point Of Contact
+1765: RAFO - Read And Find Out
+412: COT - Circle Of Trust
+2455: YGWYPF - You Get What You Pay For
+1602: ONNA - Oh No, Not Again
+2193: TY - Thank You
+894: HCC - Holy Computer Crap
+539: DP - Domestic Partner
+2143: troo - true
+1385: MOF - Matter Of Fact
+1249: LIG - Let It Go
+1569: OAUS - On An Unrelated Subject
+1357: MFD - Multi-Function Device
+395: CM - Call Me
+113: AFDN - Any F***ing Day Now
+299: BO - Bug Off -or- Body Odor
+125: AGKWE - And God Knows What Else
+108: AFAIU - As Far As I Understand
+1345: MAYA - Most Advanced Yet Accessible
+1021: IITLYTO - If It's Too Loud You're Too Old
+866: GYPO - Get Your Pants Off
+1418: MUSL - Missing You Sh** Loads
+2399: WX - Weather
+1506: NLTBRO - Not Likely To Be Run Over
+1974: SRO - Standing Room Only
+2249: VM - Voice Mail
+1618: OT - Off Topic
+1546: NTIM - Not That It Matters
+1159: JOOTT - Just One Of Those Things
+557: DURS - Damn You Are Sexy
+2072: TFM - Thanks From Me
+1563: NWT - New With Tags
+1465: ne - Any
+1142: JAS - Just A Second
+1725: PSA - Public Service Announcement
+1604: ONUD - Oh No You Didn't
+1490: NICE - Nonsense In Crappy Existence
+1694: PMIGBOM - Put Mind In Gear Before Opening Mouth
+2130: TOT - Tons Of Time
+2445: YCMU - You Crack Me Up
+500: DGAF - Don't Give A F***
+2341: WMHGB - Where Many Have Gone Before
+2220: UPOD - Under Promise Over Deliver
+956: IANNNGC - I Am Not Nurturing the Next Generation of Casualties
+1959: some1 - someone
+829: GOTDPWYD - Get Off The Damn Phone While You're Driving
+799: GJ - Good Job
+131: AIMP - Always In My Prayers
+1226: LBR and LGR - Little Boy's Room and Little Girl's Room
+791: GI - Google It
+105: AFAICT - As Far As I Can Tell
+1451: NAZ - Name, Address, Zip (also means Nasdaq)
+2481: ysdiw8 - why should i wait?
+1276: lo - it means hello
+160: AS - Ape Sh** -or- Another Subject
+549: DTF - Down To F***
+766: GBH - Great Big Hug
+2191: TXT IM - Text Instant Message
+892: HBTU - Happy Birthday To You
+1039: ILICISCOMK - I Laughed, I Cried, I Spat/Spilt Coffee/Crumbs/Coke On My Keyboard
+70: AAF - As A Friend -or- Always And Forever
+373: CAS - Crack A Smile
+2231: USP - Unique Selling Proposition
+1003: IGTP - I Get The Point
+2406: WYP - What's Your Problem?
+457: CYA - Cover Your Ass -or- See Ya
+810: GMAB - Give Me A Break
+1943: SNNSHWRS - it means sun showers
+977: ICYMI - In Case You Missed It
+2028: t+ - it means think positive
+2494: YY4U - Too Wise For You
+839: grrlz - girls, also seen as grrl
+1299: LSHMBH - Laughing So Hard My Belly Hurts
+979: ID10T - Idiot
+2358: WP - Well Played
+1406: MSTA - Must See To Appreciate
+1696: PML - Pissing Myself Laughing
+1779: RFR - Really F***ing Rich
+2300: WDDD - Woopie Doo Da Dey
+1499: NIMY - Never In A Million Years
+1975: srsly - seriously
+492: dey - they
+2178: TVM4YEM - Thank You Very Much For Your E-Mail
+1777: RFD - Request For Discussion
+1143: JC - Just Curious -or- Just Chilling -or- Jesus Christ
+2033: TA - Thanks Again
+1334: LYSOUAQ - Learn Your Sh** Or Up And Quit
+1007: IHA - I Hate Acronyms
+595: EMA - E-Mail Address
+2039: TAHITMOTS - There's A Hole In The Middle Of The Sea
+1367: MIH - Make It Happen
+1669: phat - Pretty Hot And Tempting
+969: IC - Independant Contractor -or- In Character -or- I See
+378: CBM - Covered By Medicare
+1502: NITL - Not In This Lifetime
+1228: LBUG or LBIG - Laughing Because You're Gay -or- Laughing Because I'm Gay
+988: IDKABTT - I Don't Know About That
+2041: TAM - Thanks A Million
+507: DIAF - Die In A Fire
+2233: UV - Unpleasant Visual
+1472: NESEC - Any Second
+1006: IGYHTBT - I Guess You Had To Be There
+291: BMOC - Big Man On Campus
+96: ADM - Aye Dios Mio
+2263: W8 - Wait
+828: GOS - Gay Or Straight
+224: BBFN - Bye Bye for Now
+2125: TOBG - This Oughta Be Good
+2356: WOTAM - Waste Of Time And Money
+1871: SDFB - Smoke Dope F*** B*tches
+968: IBTL - In Before The Lock
+1761: R&D; - Research & Development
+2498: ZMG or ZOMG - Oh My God
+1162: JSU - Just Shut Up
+933: HU - Hook Up
+444: CUL8R - See You Later
+2417: X-I-10 - Exciting
+795: GIGO - Garbage In, Garbage Out
+452: CWOT - Complete Waste Of Time
+416: CRAP - Cheap Redundant Assorted Products
+1999: SUAC - Sh** Up A Creek
+2170: TTYAWFN - Talk To You A While From Now
+554: DUNA - Don't Use No Acronyms
+2014: SWF - Single White Female
+2284: WATI - What A Terrible Idea
+946: I&I; - Intercourse & Inebriation
+1330: LYLAB - Love You Like a Brother
+1995: STST - Sweet Tea SweeTie
+1348: MBRFN - Must Be Real F***ing Nice
+970: ICBW - I Could Be Wrong
+1958: solomo - Social, Local, Mobile
+1374: MKOP - My Kind Of Place
+2375: WTG4a\\%/ - Want To Go For A Drink
+2408: WYS - Whatever You Say
+1528: NOYB - None Of Your Business
+2488: YTTT - You Telling The Truth?
+2273: WAEF - When All Else Fails
+601: EML - Email Me Later
+761: GAP - Got A Pic? -or- Gay Ass People
+1509: NME - Enemy
+2413: WYTB - Wish You The Best
+1915: sk8r - skater
+2428: YABA - Yet Another Bloody Acronym
+845: GSYJDWURMNKH - Good Seeing You, Just Don't Wear Your Monkey Hat
+475: DBABAI - Don't Be A Bitch About It
+973: ICIHICPCL - I Can't Imagine How I Could Possibly Care Less
+926: HRCN - it means hurricane
+517: DITR - Dancing In The Rain
+1625: OTP - On The Phone
+1288: LOOL - Laughing Outrageously Out Loud
+75: AAR8 - At Any Rate
+788: GGPBL - Gotta Go, Pacemaker Battery Low
+1567: OAO - Over And Out
+191: AYTMTB - And You're Telling Me This Because
+2042: TANJ - There Ain't No Justice
+174: AUNT - And U Know This
+1454: NBD - No Big Deal
+1070: INBD - It's No Big Deal
+2212: UGFSU - Your Girlfriend's Ugly
+211: BAC - Bad Ass Chick
+1885: SFP - Sorry For Partying
+2361: wru - where are you?
+1633: OWTTE - Or Words To That Effect
+2200: U-L - You Will
+2258: W/E - Weekend
+1063: IMO - In My Opinion
+722: FUJIMO - F*** You Jack I'm Movin' On
+1600: OMWT - On My Way Too
+1715: POTS - Plain Old Telephone System -or- Pat On The Shoulder
+1201: KOTL - Kiss On The Lips
+172: ATW - All The Web, Around The Web, All The Way, At The Weekend
+1660: PDS - Please Don't Shout
+1727: PTH - Prime Tanning Hours
+1709: PONA - Person Of No Account
+903: HHOK - Ha Ha, Only Kidding
+884: HAWTLW - Hello And Welcome To Last Week
+633: FAQL - Frequently Asked Questions List
+1317: luser - loser
+366: C&G; - Chuckle and Grin
+352: BWTM - But Wait, There's More
+553: DUM - Do You Masturbate?
+2107: TLC - Tender Loving Care
+2206: UDH82BME - You'd Hate To Be Me
+1082: IOW - In Other Words
+1197: KMWA - Kiss My White Ass
+2354: word - it means cool, a.k.a. word up
+1301: LTF - Lick The Floor
+319: BRUF - Big Requirements Up Front
+2230: USCWAP - Up Sh** Creek Without A Paddle
+1937: SN - Side Note
+2373: WTFYTT - Who The F*** You Talking To
+2353: WOP - With Out Papers
+922: HOYEW - Hanging On Your Every Word
+997: IEF - It's Esther's Fault
+286: Blkbry - Blackberry
+1717: POV - Point Of View
+290: BMGWL - Busting My Gut With Laughter
+2404: WYM - What do You Mean?
+244: BDBI5M - Busy Daydreaming Back In 5 Minutes
+1237: LGBT - Lesbian, Gay, Bisexual, Transgender
+917: HO - Hang On -or- Hold On
+1213: L - Laugh
+209: B@U or BAK@U - Back at You
+1889: SH - Sh** Happens
+454: CX - Cancelled
+443: CUL - See You Later
+2040: TAKS - That's A Knee Slapper
+639: FAY - F*** All Y'all
+515: DIRFT - Do It Right the First Time
+408: CofS - Church of Scientology
+1378: MM - Market Maker -or- Merry Meet
+1087: ISH - Insert Sarcasm Here
+2025: SYT - See You Tomorrow
+2213: UGTR - You Got That Right
+1815: RRQ - Return Receipt reQuested
+1722: PRT - Partial ReTweet -or- Party
+729: FWD - Forward
+1246: LHU - Let's Hook Up
+371: C4N - Ciao For Now
+2495: YYSSW - Yeah Yeah Sure Sure Whatever
+2119: TNC - Tongue In Cheek
+169: ATM - At The Moment, Asynchronous Transfer Mode, Automated Teller Machine
+2383: WTS - Want To Sell
+1223: LAQ - Lame Ass Quote
+409: COL - Chuckle Out Loud -or- Chortling Out Loud
+835: GR8 - Great
+1936: smt - something
+2315: WFM - Works For Me
+1027: IJ - Inside Joke
+146: AMF - Adios Mother F***er
+628: F2T - Free To Talk
+1169: JW - Just Wondering
+770: GD&RF; - Grinning, Ducking and Running Fast
+2201: U2 - You Too
+1596: OMIK - Open Mouth, Insert Keyboard
+2336: wkewl - way cool
+1413: MTMMFBWY - May the Micky Mouse Force Be With You
+833: GR&D; - Grinning Running & Ducking
+609: ESAD - Eat Sh** And Die
+1684: PLOKTA - Press Lots Of Keys To Abort
+342: BTYC - Better Than You Can
+2094: TINGTES - There Is No Gravity, The Earth Sucks
+2053: TBD - To Be Determined
+1113: IYAM - If You Ask Me
+1608: OOF - Out Of Facility
+1434: N/T - No Text
+1894: SHMILY - See How Much I Love You
+1361: MFWIC - Mother F***er Who's In Charge
+644: FCFS - First Come, First Served
+705: FTC - Failure To Communicate
+752: GAFL - Get A F***ing Life
+1154: JIC - Just In Case
+1991: STML - Short Term Memory Loss
+929: HT - Hi There -or- Hat Tip
+709: FTL - Faster Than Light
+356: BYOA - Bring Your Own Advil
+451: CUZ - Because
+1022: IITM - It's In The Mail
+405: COBRAS - Come On By Right After School
+2335: wk - it means week
+563: DWBH - Don't Worry Be Happy
+1402: MRPH - Mail the Right Place for Help
+1138: JAD - Just Another Day
+144: AMAP - As Many As Possible -or- As Much As Possible
+1354: MEJR - My Eyes Just Rolled
+2401: WYD - What You Doing?
+1124: IYQ - I Like You
+737: FYI - For Your Information
+85: ACD - Alt Control Delete
+1105: IUM - If You Must
+487: dem - them
+1752: QOTD - Quote Of The Day
+945: i h8 it - i hate it
+203: B2E - Business-to-Employee
+632: FAP - F***ing A Pissed
+2261: w00t - We Own the Other Team
+1108: IWBAPTAKYAIYSTA - I Will Buy A Plane Ticket And Kick Your Ass If You Say That Again
+497: DFU - Don't F*** Up
+2486: YTRNW - Yeah That's Right, Now What?
+1835: RU - Are You?
+1118: IYFD - In Your F***ing Dreams
+283: BKA - Better Known As
+380: CD9 - Code 9 - it means parents are around
+2185: TWIWI - That Was Interesting, Wasn't It?
+720: FUBYOYO - F*** You Buddy You're On Your Own
+669: FKM - F*** 'Em
+2079: TFTU - Thanks For The Update
+399: CMF - Count My Fingers
+2503: ^URS - Up Yours
+783: GGA - Good Game All
+1641: P3r50n - it means person
+907: HIG - How's It Going?
+1158: JOML - Jesus On the Main Line
+1023: IITYWIMWYBMAD - If I Tell You What It Means Will You Buy Me A Drink
+1836: RU/18 - Are You Over 18?
+197: B/W - Between
+572: DYHAB - Do You Have A Boyfriend?
+207: B4U - Before You
+1718: PP - Personal Problem
+338: BTTT - Back To The Top -or- Bump To The Top
+2228: URZ - yours
+1065: IMOWHA - I Made Out With Him/Her Anyway
+1594: OMFG - Oh My F***ing God
+469: D8 - Date
+696: FRED - F***ing Ridiculous Electronic Device
+655: FFT - Food For Thought
+537: doin - it means doing
+2066: TDTM - Talk Dirty To Me
+282: BJ - Blow Job
+1795: RMETTH - Rolling My Eyes To The Heavens
+1245: LHSO - Let's Have Sex Online
+1878: SEWAG - Scientifically Engineered Wild Ass Guess
+2171: TTYIAF - Talk/Type To You In A Few
+1833: RTTSD - Right Thing To Say Dude
+165: ASL - Age/Sex/Location
+2077: TFTHAOT - Thanks For The Help Ahead Of Time
+2101: TJBNJ - This Job Beats No Job
+2355: WOT - Waste Of Time or- it means what
+1978: SSC - Super Sexy Cute
+222: BBBG - Bye Bye Be Good
+329: BTDT - Been There Done That
+132: AISB - As I Said Before
+991: IDRK - I Don't Really Know
+1639: P2C2E - Process Too Complicated Too Explain
+1954: SOIAR - Sit On It And Rotate
+1522: no1 - it means no one
+879: HAGO - Have A Good One
+1736: pw - password
+794: GIGATT - God Is Good All The Time
+334: BTN - Better Than Nothing
+869: h/p - Hold Please
+193: B - Be
+297: BNDN - Been Nowhere Done Nothing
+238: BC - Because
+965: IBT - In Between Technology
+1486: NH - Nice Hand
+1467: ne1 - Anyone
+2250: VRBS - Virtual Reality Bull Sh**
+640: FB - F*** Buddy -or- FaceBook
+216: BARB - Buy Abroad but Rent in Britain
+589: EFT - Electronic Funds Transfer
+718: FUBAR - F***ed Up Beyond All Recognition (or Repair)
+874: H9 - Husband in room
+746: G4I - Go For It
+1632: ova - it means over
+2195: TYG - There You Go -or- Thank You God
+2062: TCOB - Taking Care Of Business
+2044: TANSTAAFL - There Ain't No Such Thing As A Free Lunch
+273: BIOIYA - Break It Off In Your Ass
+1956: sok - it's ok
+1556: NUFF - Enough
+2055: TBH - To Be Honest
+389: CID - Consider It Done -or- Crying In Disgrace
+465: D&M; - Deep & Meaningful
+2244: VFM - Value For Money
+559: DUST - Did You See That?
+185: AYCE - All You Can Eat
+614: ESH - Experience, Strength, and Hope
+1092: ISTM - It Seems To Me
+227: BBIAS - Be Back In A Sec
+510: DIKU - Do I Know You?
+343: BTYD - Better Than You Do
+470: da - there
+2097: TISL - This Is So Lame
+472: DAMHIKT - Don't Ask Me How I Know That
+824: GOK - God Only Knows
+296: BN - Been -or- Being
+2155: TT - Big Tease
+710: FTLOG - For The Love Of God
+647: FDFF - Falling Down F***ing Funny
+1450: NAVY - Never Again Volunteer Yourself
+424: CRTLA - Can't Remember the Three-Letter Acronym
+1099: ITIGBS - I Think I'm Going To Be Sick
+1710: POP - Photo On Profile, Point Of Purchase/Presence, Post Office Protocol
+128: aight - all right
+931: HTH - Hope This (or That) Helps
+1463: ND - No Date
+1662: PEBCAK - Problem Exists Between Chair And Keyboard
+957: IASAP4U - I Always Say A Prayer For You
+954: IANAE - I Am Not An Expert
+1347: MBN - Must Be Nice
+360: BYTME - Better You Than ME
+2257: W/ - With
+1977: SSA - Ass Backwards
+2241: VC - Venture Capital
+927: HSIAB - Haven't Seen It All Before
+2070: TFH - Thread From Hell
+1391: MOP - MOment Please
+943: I <3 I - I Love It
+1654: PCM - Please Call Me
+2325: WILB - Workplace Internet Leisure Browsing
+1058: IMI - I Mean It
+179: AWLTP - Avoiding Work Like The Plague
+1757: r - are
+1848: RX - Regards
+2054: TBE - Thick Between Ears
+2280: WAK - What A Kiss
+2081: TFYS - The F*** You Say
+1446: NASCAR - Non-Athletic Sport Centered Around Rednecks
+432: CTA - Call To Action
+2198: u - You
+2411: WYSLPG - What You See Looks Pretty Good
+2109: TLITBC - That's Life In The Big City
+1867: SC - Stay Cool
+1432: N/A - Not Applicable -or- Not Affiliated
+2052: TBC - To Be Continued
+2326: WILCO - Will Comply
+1987: STFW - Search The F***ing Web
+1381: MML - Made Me Laugh
+2295: wckd - it means wicked
+1493: NIGYYSOB - Now I've Got You, You Son Of a B*tch
+464: D - Dad -or- it means the
+1802: ROFL - Rolling On Floor Laughing
+137: ALAP - As Late As Possible
+687: FOMC - Fell Off My Chair
+1038: ILI - I Love It
+1508: nm, u - not much, you?
+1869: SCOTUS - Supreme Court Of The United States
+2117: TMTOWTDI - There's More Than One Way To Do It
+975: ICWUM - I See What You Mean
+253: BFE - Bum F*** Egypt
+101: AFAGAY - A Friend As Good As You
+1610: OOO - Out Of Office -or- Out Of Commission
+1033: IKR - I Know, Right?
+734: FYE - For Your Edification
+1665: pen15 - it stands for penis
+2187: TWTR - Twitter
+723: FUM - F***ed Up Mess
+2466: YMAK - You May Already Know
+1498: NIMQ - Not In My Queue
+1028: IJPMP - I Just Pissed My Pants
+2403: WYGISWYPF - What You Get Is What You Pay For
+89: ADAD - Another Day Another Dollar
+2181: TWHE - The Walls Have Ears
+1673: PIBKAC - Problem Is Between Keyboard And Chair
+800: GJP - Good Job Partner
+1189: KMA - Kiss My Ass
+1911: SIUYA - Shove It Up Your Ass
+328: BTD - Bored To Death
+1448: natch - Naturally
+1380: mmk - mmm ok
+1851: RYS - Read Your Screen
+357: BYOB - Bring Your Own Bottle -or- Bring Your Own Beer
+1598: OMMA - Oh My Aching Ass
+1775: REHI - Hi Again
+2038: TAH - Take A Hike
+951: IAITS - It's All In The Subject
+2174: TTYOB - Tend To Your Own Business
+1935: SMOP - Small Matter of Programming
+990: IDM - It Doesn't Matter
+1961: SOMY - Sick Of Me Yet
+2246: VIM - Very Important Member
+1984: STBY - Sucks To Be You
+483: DDSOS - Different Day, Same Old Sh**
+379: cc - carbon copy
+611: ESEMED - Every Second Every Minute Every Day
+944: I <3 U - I Love You
+176: AWC - After While, Crocodile
+2111: TM - Trust Me
+485: def - Definitely
+619: ETX - End of TeXt
+1514: NMU - Not Much, You?
+564: DWH - During Work Hours
+390: CIL - Check In Later
+1077: IONO - I Don't Know
+1420: MVA - Motor Vehicle Accident
+275: BIOYA - Blow It Out Your Ass
+2443: YBYSA - You Bet Your Sweet Ass
+1985: STD - Seal The Deal, Save The Date, Sexually Transmitted Disease, Stuff To Do
+2349: WOMBAT - Waste Of Money, Brains And Time
+576: DYOFDW - Do Your Own F***ing Dirty Work
+111: AFAYC - As Far As You're Concerned
+915: HNTW - How Nice That Was
+372: CAAC - Cool As A Cucumber
+880: hahaha - it means laughing
+183: ax - it means across
+1698: PMSL - Pissed MySelf Laughing
+249: BEG - Big Evil Grin
+641: FBI - F***ing Brilliant Idea -or- Female Body Inspector
+1303: LTIC - Laughing 'Til I Cry
+1424: MWBRL - More Will Be Revealed Later
+967: IBTD - I Beg To Differ
+584: ED - Erectile Dysfunction
+649: FE - Fatal Error
+2071: TFLMS - Thanks For Letting Me Share
+1914: sk8er - skater
+1326: LYB - Love You Babe
+1135: J4G - Just For Grins
+281: BITFOB - Bring It The F*** On, Bitch
+1900: SICL - Sitting In Chair Laughing
+518: ditto - same here
+958: IAT - I Am Tired
+217: BAU - Business As Usual
+575: DYLI - Do You Love It?
+1460: NBS - No Bull Sh**
+2034: TABOM - That's A Bunch Of Malarkey
+1767: RB@Ya - Right Back at Ya
+1817: RSN - Real Soon Now
+764: GB - Good Bridge
+683: FOC - Free of Charge
+1457: NBG - No Bloody Good
+110: AFAP - As Far As Possible
+1141: JAM - Just A Minute
+1827: RTH - Release The Hounds
+1580: ofc - of course
+1728: PTL - Praise The Lord
+1312: LULU - Locally Undesireable Land Use
+909: HIOOC - Help, I'm Out Of Coffee
+135: AITR - Adult In The Room
+583: EAPFS - Everything About Pittsburgh F***ing Sucks
+2366: WTB - Want To Buy
+1114: IYAOYAS - If You Ain't Ordinance You Ain't Sh**
+1791: RLCO - Real Life Conference
+1470: Ne2H - Need To Have
+1661: PEBCAC - Problem Exists Between Chair And Computer
+1168: JUADLAM - Jumping Up And Down Like A Monkey
+2483: YSK - You Should Know
+312: BPLM - Big Person Little Mind
+658: FIFO - First In, First Out
+1016: IIMAD - If It Makes Any Difference
+651: FF - Friends Forever
+139: ALOL - Actually Laughing Out Loud
+1888: SGTM - Sounds Good To Me
+2021: SxE - Straight Edge
+1419: MUSM - Miss You So Much
+1122: IYNAEGBTM - If You Need Anything Else Get Back To Me
+717: FUB - Fat Ugly Bastard
+2320: WIBAMU - Well, I'll Be A Monkey's Uncle
+2029: t2go - Time to Go
+1293: LOVE - Lots Of Voluntary Effort
+666: FINE - F***ed up, Insecure, Neurotic, Emotional -or- F*** It Never Ends
+2385: WTSHTF - When The Sh** Hits The Fan
+743: G1 - Good One
+1746: Q2C - Quick To Cum
+2397: WWW - World Wide Web -or- World Wide Wait -or- What Went Wrong
+1800: RNN - Reply Not Necessary
+1479: NFG - Not F***ing Good
+963: IBK - Idiot Behind Keyboard
+315: BRICS - Brazil, Russia, India, China, South Africa
+838: GROBR - Good Riddance Of Bad Rubbish
+154: AON - Apropos Of Nothing
+1211: KYPO - Keep Your Pants On
+184: AYC - Aren't You Clever -or- Aren't You Cheeky
+2430: YAF - Young Angry Female
+1480: NFI - No F***ing Idea
+1905: SIP - Skiing In Powder
+627: F2Fmail - Face-to-Face mail
+1344: MAMIL - Middle Aged Men In Lycra
+1949: SOE - Start Of Exams
+816: GN - Good Night
+1550: NTM - Not That Much
+1280: LOL WUSS - Laugh Out Loud With Unintentional Snort Sound
+1554: NTYMI - Now That You Mention It
+1971: spk - it means speak
+2046: TARFU - Things Are Really F***ed Up
+1335: LYSYB - Love Ya, See Ya, Bye
+1305: LTM - Laughing To Myself
+478: DBEYR - Don't Believe Everything You Read
+617: ETA - Estimated Time of Arrival -or- Edited To Add
+854: GTK - Good To Know
+1440: NADT - Not A Damn Thing
+1926: SMAIM - Send Me An Instant Message
+231: BBQ - Bar-B-Que -or- Barbeque
+2314: WF - Way Fun
+1436: N2M - Not To Mention -or- Not Too Much
+1247: LIB - Lying In Bed
+2199: u up - are you up?
+1094: ISWC - If Stupid Were a Crime
+1527: NOY - Not Online Yet
+2259: W/O - Without
+285: BLBBLB - Back Like Bull, Brain Like Bird
+1040: ILMJ - I Love My Job
+2396: WWSD - What Would Satan Do?
+900: HHIS - Hanging Head In Shame
+1844: RUSOS - Are You SOS (in trouble)?
+695: FPO - For Placement Only
+1241: LHK - Love Hugs Kisses
+2252: VWD - Very Well Done
+398: CMB - Call Me Back
+1925: sm1 - it means someone
+2446: YCT - Your Comment To
+346: bump - Bring Up My Post
+2106: TLA - Three Letter Acronym
+565: DWI - Driving While Intoxicated
+1825: RTFM - Read The F***ing Manual
+287: BLZRD - it means blizzard
+1405: MSNUW - Mini-Skirt No UnderWear
+716: FU2 - F*** You Too
+1759: r u goin? - Are you going?
+1155: JK - Just Kidding
+467: d00d - dude, also seen as dood
+2229: USC - Up Sh** Creek
+1053: imfkd^ - I am f***ed up
+2422: XQZT - Exquisite
+437: CTMQ - Chuckle To Myself Quietly
+102: AFAHMASP - A Fool And His Money Are Soon Parted
+2412: WYT - Whatever You Think
+1816: RRR - haR haR haR (instead of LOL)
+1012: IHU - I Hear You
+1128: J/J - Just Joking
+1320: LWR - Launch When Ready
+407: Cof$ - Church of Scientology
+667: FISH - First in, Still Here
+1951: SOH - Sense Of Humor
+2302: WDT - Who Does That?
+1501: NISM - Need I Say More
+1309: LTS - Laughing to Self
+2153: TSRA - Two Shakes of a Rat's Ass
+664: FILF - Father I'd Like to F***
+218: BB - Be Back -or- Buzzard Breath -or- Blessed Be
+317: BRO - Be Right Over
+2362: WRUD - What Are You Doing?
+1322: LWYS - Look What You Started
+65: A/N - Author's Note
+533: DOA - Dead On Arrival
+738: FYIFV - F*** You I'm Fully Vested
+2418: XLNT - Excellent
+610: ESADYFA - Eat Sh** And Die You F***ing Asshole
+1912: SIY - Search Inside Yourself
+155: AOR - Agency On Record -or- Album-Oriented Rock
+937: huh - what
+1599: OMW - On My Way -or- Oh My Word
+662: FIIK - F*** If I Know
+994: IDTBBF - I Deserve To Be Blown First
+2437: YATI - You're A Total Idiot
+679: FOAD - F*** Off And Die
+1005: IGWST - It Goes Without Saying That
+813: GMTA - Great Minds Think Alike
+1327: LYCYLBB - Love You, See You Later, Bye Bye
+2476: YOYO - You're On Your Own
+1865: SBTA - Sorry, Being Thick Again
+1430: N pic - Nice picture
+514: DINR - Dinner
+1510: NMH - Not Much Here
+932: HTNOTH - Hit The Nail On The Head
+1431: N-A-Y-L - In A While
+964: IBRB - I'll Be Right Back
+773: GF - Girlfriend
+2435: YARBWYR - You're A Right Bleed'n Wanker You Are
+2088: TIAIL - Think I Am In Love
+1041: ILU - I Love You
+2269: WACI - What A Cool Idea
+809: GM - Good Morning -or- Good Move
+812: GMILY - Good Morning I Love You
+1583: OICU812 - Oh I See, You Ate One Too
+1963: SOP - Standard Operating Procedure
+88: ACORN - A Completely Obsessive Really Nutty person
+1388: MOO - Mud Object-Oriented -or- Matter Of Opinion -or- My Opinion Only
+1462: NCG - New College Graduate
+2045: TAP - Take A Pill
+423: CRS - Can't Remember Sh**
+2194: TYCLO - Turn Your CAPS LOCK Off
+129: AIH - As It Happens
+1364: MHOTY - My Hat's Off To You
+1014: IIABDFI - If It Ain't Broke, Don't Fix It
+2222: UR2K - You Are Too Kind
+1793: RM - Remake
+349: BWI - But What If
+1384: mob - it means mobile
+1685: PLOS - Parents Looking Over Shoulder
+1117: IYDMMA - If You Don't Mind My Asking
+1758: r u da? - Are you there?
+2465: YM - Your Mother
+2137: TPTB - The Powers That Be
+1051: IMEZRU - I Am Easy, Are You?
+1048: IMAO - In My Arrogant Opinion
+1785: RI&W; - Read It And Weep
+2061: TCB - Trouble Came Back -or- Taking Care of Business
+1149: JFI - Just For Information
+1275: LMTCB - Left Message To Call Back
+1266: LMIRL - Let's Meet In Real Life
+1619: OTASOIC - Owing To A Slight Oversight In Construction
+1739: pwms - playing with myself
+1993: STR8 - Straight
+1485: NGH - Not Gonna Happen
+494: DFIK - Darn If I Know
+1152: JHOM - Just Helping out My (Mafia, Mob, Neighbors, etc.)
+1495: NIM - No Internal Message
+1206: KWIM - Know What I Mean?
+2484: YSYD - Yeah, Sure You Do
+205: B4 - Before
+2190: TXT - Text
+2202: u4e - Yours ForEver
+634: FASB - Fast Ass Son Bitchii
+2226: URWS - You Are Wise
+2151: TSOB - Tough Son Of a B*tch
+1683: PLO - Peace, Love, Out
+566: DWPKOTL - Deep Wet Passionate Kiss On The Lips
+1882: SFB - Sh** For Brains
+1965: SOS - Same Old Sh** -or- help
+608: EOT - End Of Thread/Text/Transmission
+1947: SOBT - Stressed Out Big Time
+707: FTF - F*** That's Funny -or- Face To Face
+1464: NDN - Indian
+646: FCS - First Customer Ship
+362: C - it means see, it's also a programming language
+897: HF - Hello Friend -or- Have Fun -or- Have Faith
+2327: WIM - Woe Is Me
+308: book - it means cool
+246: BDN - Big Damn Number
+2091: TILF - Teacher I'd Like to F***
+1080: IOU - I Owe You
+1331: LYLAS - Love You Like A Sister
+71: AAK - Asleep At Keyboard
+1321: LWU - Laughing With You
+888: HBB - Hip Beyond Belief
+2493: YWIA - You're Welcome In Advance
+686: FOL - Fond of Leather
+853: GTH - Go To Hell
+1899: SIC - Spelling Is Correct
+1145: JDMJ - Just Doing My Job
+1093: ISTR - I Seem To Remember
+1466: ne-wayz - anyways
+742: G - Guess -or- Grin -or- Giggle
+1372: MIRL - Meet In Real Life
+1036: ILA - I Love Acronyms
+382: CFV - Call For Vote
+431: CT - Can't Talk -or- Can't Text
+2433: YAJWD - You Ain't Just Whistling Dixie
+2424: XXCC - Kiss, Kiss, Hug, Hug
+2169: TTUL - Talk To You Later
+745: G2GLYS - Got To Go Love Ya So
+1821: RTBM - Read The Bloody Manual
+177: AWGTHTGTTA - Are We Going To Have To Go Through This Again
+1110: IWFU - I Wanna F*** You
+570: DYAC - Damn You Auto Correct
+1148: JFH - Just F*** Her
+837: gratz - Congratulations
+374: CB - Chat Brat -or- Coffee Break -or Call Back
+1881: SFAIAA - So Far As I Am Aware
+1433: N/M - Nothing Much
+1265: LMHO - Laughing My Head Off
+2124: TOBAL - There Oughta Be A Law
+1452: NB - Nota Bene
+819: GNOC - Get Naked On Cam
+2059: TBYB - Try Before You Buy
+859: GTSY - Glad To See You
+703: FTBL - Football
+1789: RKBA - Right to Keep and Bear Arms
+2304: WDYMBT - What Do You Mean By That?
+1060: IMML - I Make Myself Laugh
+736: FYF - From Your Friend
+1872: SDK - Scottie Doesn't Know -or- Software Developer's Kit
+1920: SLIRK - Smart Little Rich Kid
+2232: UTM - You Tell Me
+498: DFWLY - Don't Forget Who Loves You
+1484: NGB - Nearly Good Bridge
+1591: OMB - Oh My Buddha
+558: DUSL - Do You Scream Loud?
+2365: WT - Without Thinking -or- What The -or- Who The
+1538: NSFW - Not Safe For Work
+1558: NVNG - Nothing Ventured, Nothing Gained
+2131: TOY - Thinking Of You
+698: FS - For Sale
+919: HOIC - Hold On, I'm Coming
+2389: WUWH - Wish You Were Here
+92: addy - address
+459: CYL - See You Later
+2270: WAD - Without A Doubt
+2382: WTN - What Then Now? -or- Who Then Now?
+898: HHFO - Hell Has Frozen Over
+1404: MSMD - Monkey See Monkey Do
+1597: OML - Oh My Lord
+2227: URYY4M - You Are Too Wise For Me
+1735: PVP - Player Versus Player
+2420: XOXO - Hugs and Kisses
+2075: TFS - Thanks For Sharing -or- Three Finger Salute
+377: CBJ - Covered Blow Job
+364: c%d - it means could
+1707: POETS - Piss Off Early Tomorrow's Saturday
+1886: SFTTM - Stop F***ing Talking To Me
+2427: YA yaya - Yet Another Ya-Ya (as in yo-yo)
+86: ACE - Access Control Entry
+1461: NC - Nice Crib
+793: GIDK - Gee I Don't Know
+1251: LIS - Laughing In Silence
+2434: YAOTM - Yet Another Off Topic Message
+1221: LAGNAF - Lets All Get Naked And F***
+531: DND - Do Not Disturb
+1834: RTWFQ - Read The Whole F***ing Question
+528: DMI - Don't Mention It
+1781: rgds - it means regards
+2441: YBS - You'll Be Sorry
+406: COD - Change Of Dressing
+620: every1 - everyone
+271: BIL - Brother-In-Law -or- Boss Is Listening
+276: BIOYE - Blow It Out Your Ear
+701: FSU - F*** Sh** Up
+762: GAS - Got A Second?
+202: B2D - Business-to-Distributor
+190: AYSOS - Are You Stupid Or Something
+2282: wan2 - it means want to
+2442: YBY - Yeah Baby Yeah
+1369: MIL - Mother-In-Law
+280: BITD - Back In The Day
+376: CBF - Can't Be F***ed
+1549: NTL - nonetheless
+2467: YMAL - You Might Also Like
+2236: UX - User eXperience
+245: BDC - Big Dumb Company -or- Big Dot Com
+1797: RMMA - Reading My Mind Again
+684: FOFL - Falling on Floor Laughing
+1934: SMIM - Send Me an Instant Message
+1270: LMP - Lick My Pussy
+2068: TF - Too Funny
+1929: SMB - Suck My Balls
+1801: RNY - it means rainy
+685: FOGC - Fear Of Getting Caught
+345: buhbye - bye
+1086: ISAGN - I See A Great Need
+97: ADN - Advanced Digital Network -or- Any Day Now
+1733: PU - That Stinks
+2018: SWL - Screaming With Laughter
+1887: SFX - Sound Effects -or- Stage Effects
+1408: MT - empty -or- Modified Tweet
+1942: SNL - Same Night Lay
+524: DL - Down Low -or- Download -or- Dead Link
+1088: ISO - In Search Of
+579: E2HO - Each to His/Her Own
+1523: NOA - Not Online Anymore
+2369: WTFDYJS - What The F*** Did You Just Say?
+2310: werja - it means where do you
+1286: LOML - Love Of My Life
+2239: VBMG - Very Big Mischievous Grin
+2502: ^RUP^ - Read Up Please
+1584: OIRWIS - Oh I Remember What I Said
+1377: mlm - giving the digital middle finger
+1156: JM2C - Just My 2 Cents
+200: B2B2C - Business-to-Business-to-Consumer
+1238: LGMAS - Lord Give Me A Sign
+199: B2B - Business-to-Business
+550: DTK - Down To Kill
+1194: KMRIA - Kiss My Royal Irish Arse
+252: BFD - Big F***ing Deal -or- Big F***ing Disaster
+2163: TTS - Text To Speech
+175: AUNTM - And U Know This Man
+171: ATST - At The Same Time
+1940: SNERT - Snotty Nosed Egotistical Rotten Teenager
+2262: w4m - women for men
+677: FNG - F***ing New Guy
+448: CUOL - See You OnLine
+1676: PIMP - Peeing In My Pants
+126: AI - Artificial Intelligence -or- As If
+1204: kudt - Dutch for f***ed up life
+726: FURTB - Filled Up and Ready To Burst
+2386: WTTM - Without Thinking Too Much
+121: AFU - All F***ed Up
+2166: TTTHTFAL - Talk To The Hand The Face Ain't Listening
+1233: LF - Let's F***
+699: FSBO - For Sale By Owner
+1918: SLAP - Sounds Like A Plan
+1356: MF - My Friend
+104: AFAICS - As Far As I Can See
+855: GTL - Gym, Tan, Laundry
+1173: KBD - Keyboard
+2210: UG2BK - You've Got To Be Kidding
+811: GMAFB - Give Me A F***ing Break
+2309: wenja - it means when do you
+466: d/c - disconnected
+1081: IOUD - Inside, Outside, Upside Down
+1640: P2U4URAQTP - Peace To You For You Are A Cutie Pie
+2278: WAG - Wild Ass Guess -or- Wives And Girlfriends
+1232: LDTTWA - Let's Do The Time Warp Again
+394: CLM - Career Limiting Move
+758: GALHER - Get A Load of Her
+1422: MVA w/PI - Motor Vehicle Accident with Personal Injury
+1269: LMOA - Left a Message On your Answering machine
+2451: YGBSM - You Gotta Be Sh**ing Me
+2359: WRM - it means warm
+776: GFN - Gone For Now
+1319: luv - it means love
+388: CICYHW - Can I Copy Your Home Work
+187: AYK - As You Know
+604: EMSG - E-Mail Message
+574: DYJHIW - Don't You Just Hate It When...
+2329: wirld - world
+830: GOWI - Get On With It
+984: IDGI - I Don't Get It -or- I Don't Get Involved
+1850: RYO - Roll Your Own
+763: gawd - God
+347: BW - Best Wishes
+842: GSOAS - Go Sit On A Snake
+1532: NR - Nice Roll
+1766: RAT - Remotely Activated Trojan -or- Remote Access Tool
+2416: X - it means times
+2452: YGLT - You're Gonna Love This
+2308: WEG - Wicked Evil Grin
+1283: LOLROTF&ICGU; - Laughing Out Loud Rolling On The Floor & I Can't Get Up
+1667: PFC - Pretty F***ing Cold
+1679: PIR - Parent In Room
+642: FBKS - Failure Between Keyboard and Seat
+289: BMF - Bad Mother F***er
+341: BTWITIAILWU - By The Way I Think I Am In Love With You
+311: BOTOH - But On The Other Hand
+1494: NIH - Not Invented Here
+2148: TSIA - This Says It All
+593: ELOL - Evil Laugh Out Loud
+1407: MSTM - Makes Sense To Me
+1425: MWS - My Wife Says
+1230: LDIMEDILLIGAF - Look Deeply Into My Eyes, Does It Look Like I Give A F***
+268: BIBI - Bye Bye
+789: GGY - Go Google Yourself
+2337: wknd - it means weekend
+1389: MOOC - Massive Open Online Course
+1365: MHYF - Move How You Feel
+1121: IYKWIMAITYD - If You Know What I Mean And I Think You Do
+952: IANAC - I Am Not A Crook
+2294: WCA - Who Cares Anyway
+477: DBD - Don't Be Dumb
+2020: SWU - So What's Up
+471: DAFUQ - What the F***
+251: BF - Boyfriend -or- Best Friend
+540: dps - Damage Per Second
+1787: RINO - Republican In Name Only
+769: GD&R; - Grinning, Ducking and Running
+1489: NI4NI - An Eye For Any Eye
+1924: SM - Senior Moment
+820: GNS - GangNam Style
+288: BM - Byte Me
+1579: OFAP - Old Fart At Play
+267: BI5 - Back In Five
+865: GYHOOYA - Get Your Head Out Of Your Ass
+1692: PMF - Pardon My French
+1921: SLM - See Last Mail
+1808: ROTFLMAO - Rolling On The Floor Laughing My Ass Off
+771: GDI - God Damn It -or- God Damn Independent
+1778: RFP - Request For Proposal
+857: GTRM - Going To Read Mail
+2160: TTIOT - The Truth Is Out There
+1161: JP - Just Playing
+1955: SoIC - So I See
+1824: RTFF - Read The F***ing FAQ
+1443: NAK - Nursing At Keyboard
+856: GTM - Giggle To Myself
+2447: YDKM - You Don't Know Me
+1749: qix - it means quick
+332: BTFO - Back The F*** Off -or- Bend The F*** Over
+1456: NBFABS - Not Bad For A Bot Stopper
+117: AFJ - April Fools Joke
+1071: INMP - It's Not My Problem
+344: BUFF - Big Ugly Fat F***
+591: EIP - Eggo Is Preggo
+688: FOMCL - Falling Off My Chair Laughing
+1455: NBFAB - Not Bad For A Beginner
+2291: WBS - Write Back Soon
+2496: Z - it means said
+1043: ILY - I Love You
+1387: MOMPL - MOMent PLease
+2277: WAFU - What A F*** Up
+2264: W9 - Wife in room
+476: DBBSWF - Dream Boat Body, Shipwreck Face
+410: coo - short for cool
+256: BFFTTE - Best Friends Forever Til The End
+2290: WB - Welcome Back -or- Write Back
+2360: WRT - With Regard To -or- With Respect To
+960: IAYM - I Am Your Master
+999: IFAB - I Found A Bug
+1259: LM46 - Let's Meet For Sex
+2288: WAYD - What Are You Doing?
+74: AAR - At Any Rate
+1537: NSB - Not Sure But
+1227: LBS - Laughing But Serious
+417: CRAT - Can't Remember A Thing
+393: CLD - it means cold
+643: FBOCD - Facebook Obsessive Compulsive Disorder
+415: CRAFT - Can't Remember A F***ing Thing
+212: BAG - Busting A Gut -or- Big Ass Grin
+1476: NFC - Not Favorably Considered -or- No F***ing Chance
+624: F - Friend
+2347: WOG - Wise Old Guy
+2460: YKW - You Know What?
+1350: MD - Doctor of Medicine -or- Managing Director
+995: IDTS - I Don't Think So
+138: alcon - All Concerned
+1089: ISS - I Said So -or- I'm So Sure
+2026: s^ - what's up?
+1897: SHWASLOMF - Sitting Here With A Straight Look On My Face
+1215: L/M - Left Message
+1438: NA - Nice Ass
+107: AFAIR - As Far As I Remember
+1111: IWIWU - I Wish I Was You
+751: GAB - Getting A Beer
+1100: ITM - In The Money
+247: BDOA - Brain Dead On Arrival
+1515: NN - Not Now -or- Need
+460: CYM - Check Your Mail
+921: howru - How Are You
+368: C-T - City
+2223: URAPITA - You Are A Pain In The Ass
+512: DILLIGAS - Do I Look Like I Give A Sh**
+2480: YSAN - You're Such A Nerd
+1622: OTH - Off The Hook
+1859: SAHM - Stay At Home Mom
+375: CBB - Can't Be Bothered
+403: CNP - Continued in Next Post
+1847: RU\\18 - Are You Under 18?
+1109: IWBNI - It Would Be Nice If
+625: F/U - it means to Follow Up
+502: DGT - Don't Go There
+672: FLUID - F***ing Look it Up, I Did
+427: CSA - Cool Sweet Awesome
+2067: TEOTWAWKI - The End Of The World As We Know It
+440: CU46 - See You For Sex
+2468: YMBKM - You Must Be Kidding Me
+1341: m4w - men for women
+2372: WTFWYCM - Why The F*** Would You Call Me?
+1539: NSS - No Sh** Sherlock
+760: GANB - Getting Another Beer
+2145: TS - Tough Sh** -or- Totally Stinks
+2182: TWIMC - To Whom It May Concern
+1541: NTA - Not This Again
+1439: NAB - Not A Blonde
+1687: PLU - People Like Us
+1193: KMP - Keep Me Posted
+1469: ne1er - anyone here?
+1704: po-mo - post-modern
+887: HBASTD - Hitting Bottom And Starting To Dig
+1047: IMA - I Might Add
+2298: WD - Well Done
+425: CS - Career Suicide
+706: FTE - Full Time Employee
+523: DKDC - Don't Know Don't Care
+2156: TTA - Tap That Ass
+67: A2D - Agree to Disagree
+1855: S3<==8 - screwed in the ass
+1274: LMTC - Left a Message To Contact
+230: BBMFIC - Big Bad Mother F***er In Charge
+148: AMRMTYFTS - All My Roommates Thank You For The Show
+700: FSR - For Some Reason
+1263: LMBPO - Laughing My Booty Pop Off
+127: AIAMU - And I'm A Monkey's Uncle
+986: IDK - I Don't Know
+1235: LFU - Life"s F***ed Up
+2092: TILII - Tell It Like It Is
+2158: TTFN - Ta Ta For Now
+2487: YTTM - You Talk Too Much
+106: AFAIK - As Far As I Know
+198: B2A - Business-to-Anyone
+525: DLTBBB - Don't Let The Bed Bugs Bite
+1261: LMAO - Laughing My Ass Off
+264: BHIMBGO - Bloody Hell, I Must Be Getting Old
+1296: LRF - Little Rubber Feet
+2470: YMMV - Your Mileage May Vary
+1400: MRA - Moving Right Along
+582: EAK - Eating at Keyboard
+479: DBMIB - Don't Bother Me I'm Busy
+503: DGTG - Don't Go There Girlfriend
+587: EE or EEs - Employee -or- Employees
+2317: WGAFF - Who Gives A Flying F***
+1737: PWAS - Prayer Wheels Are Spinning
+2473: YNK - You Never Know
+2115: TMSAISTI - That's My Story And I'm Sticking To It
+757: GALGAL - Give A Little Get A Little
+1287: LONH - Lights On, Nobody Home
+1670: PHB - Pointy Haired Boss
+2287: WAWI - What A Wonderful Idea
+1220: LAFW - Listening (but) Away From Window
+1240: LH6 - Let’s Have Sex
+1534: NRN - No Reply Necessary
+976: ICYC - In Case You're Curious -or- In Case You Care
+1037: ILF/MD - I Love Female/Male Dominance
+1853: S2R - Send To Receive
+1258: LLTA - Lots and Lots of Thunderous Applause
+1603: ONNTA - Oh No, Not This Again
+1360: MFRC - My Fingers Are Crossed
+1772: RCI - Rectal Cranial Inversion
+336: BTR - Better
+1630: OTW - Off The Wall -or- Otherwise
+571: DYFM - Dude You Fascinate Me
+848: GTFO - Get The F*** Out
+2235: UWM - You Want Me
+2311: werru - it means where are you
+1745: Q - Queue -or- Question
+2090: TIGAS - Think I Give A Sh**
+223: BBFBBM - Body By Fisher, Brains By Mattel
+2439: YB - You B*tch
+596: EMBM - Early Morning Business Meeting
+1120: IYKWIM - If You Know What I Mean
+822: GOB - Game On B*tcheeez
+363: c ya - see ya
+426: CS&F; - Cute Sexy & Funny
+2448: YEPPIES - Young Experimenting Perfection Seekers
+1574: OBX - Old Battle Axe
+122: AFW - Away From Window
+1653: PC - Personal Computer -or- Politically Correct
+543: DQYDJ - Don't Quit Your Day Job
+925: HPPO - Highest Paid Person in Office
+255: BFFN - Best Friends For Now
+1199: KOK - Knock
+1732: PTPOP - Pat The Pissed Off Primate
+1516: NNCIMINTFZ - Not Now Chief, I'm In The F ***in' Zone
+509: DIFBET - it means what's the difference between
+1178: KHYF - Know How You Feel
+1880: SF - Surfer Friendly -or- Science Fiction
+846: GT - Good Try
+2176: TTYT - Talk To You Tomorrow
+83: ABK - Always Be Knolling
+993: IDTA - I Did That Already
+949: IAE - In Any Event
+1253: LKITR - Little Kid In The Room
+463: CYT - See You Tomorrow
+1281: LOLA - Laugh Out Loud Again
+421: CRD - Caucasian Rhythm Disorder -or- Deficiency
+2393: wuzup - what's up?
+1210: KYNC - Keep Your Nose Clean
+511: DILLIGAD - Do I Look Like I Give A Damn
+1559: NW - No Way
+2237: V - Very
+2245: VGN - Vegan -or- Vegetarian
+1386: MOFO - Mother F***er
+585: EDM - Electronic Document Management -or- Electronic Dance Movement
+1690: PM - Personal Message -or- Private Message
+2377: WTH - What The Heck
+1308: LTR - Long Term Relationship
+2319: WHYDTM - What Have You Done To Me?
+1518: nnsh - night night sweet heart
+313: BR - Bathroom
+215: banana - it means penis
+490: DETI - Don't Even Think It
+2398: WWY - Where Were You?
+2112: TMA - Too Many Acronyms
+2186: TWSS - That's What She Said
+598: EMFBI - Excuse Me For Butting In
+600: EMI - Excuse My Ignorance
+1810: ROTFLOL - Rolling On The Floor Laughing Out Loud
+2292: WBU - What 'Bout You?
+301: BOB - Battery Operated Boyfriend
+1734: puter - computer
+1185: kitty - it means pussy
+1948: SODDI - Some Other Dude Did It
+1629: OTTOMH - Off The Top Of My Head
+1774: RE - Regards -or- Reply -or- Hello Again
+1805: ROFLOL - Rolling On Floor Laughing Out Loud
+2458: YIU - Yes, I Understand
+1411: MTFBWY - May The Force Be With You
+2254: W - With -or- Working
+123: AFZ - Acronym Free Zone
+2350: WoMoBiJo - Working Mother with a Big Job
+298: BNF - Big Name Fan
+1617: OST - On Second Thought
+419: CRB - Come Right Back
+351: BWO - Black, White or Other
+2368: WTF - What The F***
+447: CUNT - See You Next Time -or- Can't Understand Newest Text
+1435: N1 - Nice One
+730: FWIW - For What It's Worth -or- Forgot Where I Was
+1582: OIC - Oh, I See
+1543: NTB - Not Too Bright
+1458: NBIF - No Basis In Fact
+2110: TLK2UL8R - Talk To You Later
+826: GOLF - Grateful Of Lovely Family -or- Friends
+851: GTGB - Got To Go Bye
+692: FORD - Found On Road Dead, Fixed Or Repaired Daily, F***ed Over Rebuilt Dodge
+2474: YOLO - You Only Live Once
+1939: SNAG - Sensitive New Age Guy
+650: FEAR - Forget Everything And Run -or- Face Everything And Recover
+1075: IOH - I'm Outta Here
+1195: KMSLA - Kiss My Shiny Little Ass
+864: GWS - Get Well Soon
+1631: OUSU - Oh You Shut Up
+434: CTFD - Calm The F*** Down
+79: AB - Ass Backwards -or- Ah Bless
+1343: MA - Mature Audience
+1526: NOS - New Old Stock -or- Not Outside Sales
+516: DISTO - Did I Say That Outloud?
+849: GTFOOH - Get The F*** Out Of Here
+1616: OSINTOT - Oh Sh** I Never Thought Of That
