@@ -24,7 +24,7 @@ hashtag1 = " #ETYUAAAPD"
 hashtag2 = " #acronyms"
 
 try:
-	with open('acronms.txt','r') as f:
+	with open('acronyms.txt','r') as f:
 		tweettext = f.readline()
 		api.update_status(tweettext.split(":")[1]+hashtag1+hashtag2)
 		if tweettext == "":
